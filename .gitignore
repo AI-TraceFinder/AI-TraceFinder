@@ -1,0 +1,20 @@
+# Ignore dataset directories
+Flatfield/
+Official/
+Wikipedia/
+
+# Ignore TIFF images
+*.tif
+*.tiff
+
+# Ignore CSV outputs if you don’t want them in repo
+milestone1/processed_images/
+milestone1/*.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.env/

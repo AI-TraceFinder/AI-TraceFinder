@@ -3,9 +3,6 @@ Flatfield/
 Official/
 Wikipedia/
 
-# Ignore TIFF images
-*.tif
-*.tiff
 
 # Ignore CSV outputs if you don’t want them in repo
 milestone1/processed_images/

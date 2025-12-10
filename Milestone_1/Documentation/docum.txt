@@ -1,0 +1,59 @@
+# **TraceFinder – Milestone 1 Documentation**
+
+## **1. Introduction**
+
+Milestone 1 focuses on collecting scanned document samples,labeling them,analysing various properties and also building the foundational preprocessing pipeline required before any machine-learning models are applied.
+The whole coding part was done in  google colab using the given dataset.
+---
+
+## **2. Objective of Milestone 1**
+
+* Collect sample scanned documents.
+* Perform basic image preprocessing.
+* Demonstrate the transformation of raw scanned input into a clean, processed output.
+
+---
+
+## **3. Features Completed in Milestone 1**
+
+### **3.1 Data Collection And Labeling**
+### **3.2 Image Preprocessing Pipeline**
+
+The following preprocessing tasks are implemented:
+
+* **Resize all images to a fixed dimension- (256,256)**
+* **Noise Removal**
+* **Convert to grayscale**
+* **The ouput is made into png format**
+
+---
+
+### **Sample Input**
+
+A raw scanned document with noise, tilt, and poor contrast.
+
+### **Sample Output**
+
+A cleaned, aligned, noise-free version of the same document suitable for training.
+
+---
+
+## **5. Tools & Technologies Used**
+
+* **Python**
+* **OpenCV** for image processing
+* **NumPy** for array operations
+* **Matplotlib** (for debugging/visualization)
+---
+
+## **7. Deliverables for Milestone 1**
+
+* ✔️ Preprocessing script
+* ✔️ Sample input image
+* ✔️ Sample processed output
+* ✔️ Documentation
+
+---
+## **9. Conclusion**
+
+Milestone 1 establishes the foundation of the TraceFinder system by ensuring all scanned documents are preprocessed and standardized. This step is essential for accurate OCR and extraction in future milestones.

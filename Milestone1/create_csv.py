@@ -8,17 +8,10 @@ base_path = "/Users/mithra/Desktop/Scanner-Forensics/dataset/raw/Official"
 csv_file = "scanner_dataset_small.csv"
 
 def encode_image_small(image_path, max_size=(400, 400), quality=40):
-    # Open image
     img = Image.open(image_path)
-    
-    # Resize to make small
     img.thumbnail(max_size)
-    
-    # Save to memory buffer
     buffer = io.BytesIO()
     img.save(buffer, format="JPEG", quality=quality)
-    
-    # Base64 encode
     return base64.b64encode(buffer.getvalue()).decode("utf-8")
 
 count = 0

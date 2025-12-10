@@ -3,16 +3,12 @@ import cv2
 import pandas as pd
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from tqdm import tqdm
-
-# ---------------- CONFIG ----------------
 INPUT_FOLDER = "/Users/mithra/Desktop/Scanner-Forensics/dataset/raw/Official"
 OUTPUT_FOLDER = "/Users/mithra/Desktop/Scanner-Forensics/dataset/processed/images"
 CSV_FILE = "/Users/mithra/Desktop/Scanner-Forensics/dataset/processed/scanner_dataset.csv"
 IMAGE_SIZE = (224, 224)
 GRAYSCALE = True
-NUM_PROCESSES = 8  # Use processes for CPU-bound tasks
-# ----------------------------------------
-
+NUM_PROCESSES = 8  
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 def process_image(image_path):
@@ -33,7 +29,6 @@ def process_image(image_path):
         print(f"Error processing {image_path}: {e}")
         return None
 
-# Collect images
 image_paths = [os.path.join(root, f)
                for root, _, files in os.walk(INPUT_FOLDER)
                for f in files if f.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.tiff'))]
@@ -49,7 +44,6 @@ else:
             if result:
                 processed_files.append(result)
 
-    # Save CSV
     os.makedirs(os.path.dirname(CSV_FILE), exist_ok=True)
     df = pd.DataFrame({"filename": processed_files})
     df.to_csv(CSV_FILE, index=False)

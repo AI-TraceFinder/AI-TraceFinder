@@ -59,7 +59,7 @@ Milestone-1 focuses on preparing the dataset for modeling:
 ## 🖼️ **Milestone-1 Sample Input & Output Images**
 
 ### 📥 **Input Image (Original Scanned Document)**
-![Input Image](Milestone-1/sample%20output%20images/input%20image.png)
+![Input Image](https://github.com/AI-TraceFinder/Nageswari-Mettukuru/blob/main/Milestone-1/sample%20output%20images/input%20image%20.png)
 
 ### 📤 **Output Image (After Grayscale + Resize Preprocessing)**
 ![Output Image](Milestone-1/sample%20output%20images/output%20image.png)
@@ -94,14 +94,7 @@ Milestone-1 focuses on preparing the dataset for modeling:
 - Matplotlib  
 - Git & GitHub  
 
----
 
-## 📊 **GitHub Stats**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Nageswari00530&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nageswari00530&layout=compact&theme=radical)
-
----
 
 ## 🤝 **Contributions**
 This is a private academic project under the **AI-TraceFinder** organization.  

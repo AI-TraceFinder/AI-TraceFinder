@@ -6,7 +6,7 @@ from tqdm import tqdm
 INPUT_FOLDER = "/content/drive/MyDrive/a/originals"
 OUTPUT_FOLDER = "/content/drive/MyDrive/a/Output"
 CSV_FILE = "/content/drive/MyDrive/a/labels.csv"
-IMAGE_SIZE = (900, 900)
+IMAGE_SIZE = (512, 512)
 GRAYSCALE = True
 NUM_PROCESSES = 8
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)

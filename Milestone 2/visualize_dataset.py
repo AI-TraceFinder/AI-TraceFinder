@@ -1,5 +1,5 @@
 import matplotlib
-matplotlib.use("TkAgg")   # IMPORTANT for macOS graphics
+matplotlib.use("TkAgg")   
 
 import pandas as pd
 import cv2

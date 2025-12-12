@@ -5,11 +5,6 @@ import pandas as pd
 import pywt
 from skimage.feature import local_binary_pattern
 
-
-
-# ------------------------------------------------------------
-# 1️⃣  PRNU Noise Extraction
-# ------------------------------------------------------------
 def extract_prnu_noise(img):
     img = np.float32(img) / 255.0
 
@@ -22,10 +17,6 @@ def extract_prnu_noise(img):
 
     return prnu
 
-
-# ------------------------------------------------------------
-# 2️⃣  FFT Features
-# ------------------------------------------------------------
 def extract_fft_features(img):
     f = np.fft.fft2(img)
     fshift = np.fft.fftshift(f)
@@ -45,10 +36,6 @@ def extract_fft_features(img):
 
     return fft_feat
 
-
-# ------------------------------------------------------------
-# 3️⃣  LBP Texture Features
-# ------------------------------------------------------------
 def extract_lbp(img):
     lbp = local_binary_pattern(img, P=8, R=1, method="uniform")
     hist, _ = np.histogram(lbp.ravel(), bins=20, range=(0, 20))
@@ -56,10 +43,6 @@ def extract_lbp(img):
     hist = hist / (hist.sum() + 1e-6)
     return hist
 
-
-# ------------------------------------------------------------
-# 4️⃣  Edge Features (Sobel)
-# ------------------------------------------------------------
 def extract_edges(img):
     sobel_x = cv2.Sobel(img, cv2.CV_64F, 1, 0)
     sobel_y = cv2.Sobel(img, cv2.CV_64F, 0, 1)
@@ -73,10 +56,6 @@ def extract_edges(img):
 
     return edge_feat
 
-
-# ------------------------------------------------------------
-# ⭐ 5️⃣  Combined Feature Extractor
-# ------------------------------------------------------------
 def extract_features(img_path):
     img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
 
@@ -93,12 +72,7 @@ def extract_features(img_path):
     full_vector = np.hstack([fft_feat, lbp_feat, edge_feat])
     return full_vector
 
-
-
-# ------------------------------------------------------------
-# ⭐ 6️⃣  PROCESS ENTIRE DATASET
-# ------------------------------------------------------------
-dataset_root = "preprocessed_images"     # Your dataset folder
+dataset_root = "preprocessed_images"     
 output_csv = "features.csv"
 
 rows = []
@@ -110,7 +84,7 @@ for root, dirs, files in os.walk(dataset_root):
         if file.lower().endswith((".png", ".jpg", ".jpeg", ".tif", ".tiff")):
             img_path = os.path.join(root, file)
 
-            label = os.path.basename(root)   # folder name = scanner label
+            label = os.path.basename(root)   
 
             try:
                 feats = extract_features(img_path)
@@ -123,9 +97,6 @@ for root, dirs, files in os.walk(dataset_root):
                 print(f"❌ Error processing {img_path}: {e}")
 
 
-# ------------------------------------------------------------
-# ⭐ 7️⃣  SAVE FEATURES TO CSV
-# ------------------------------------------------------------
 columns = (
     ["image_path", "label"] +
     [f"fft_{i}" for i in range(6)] +

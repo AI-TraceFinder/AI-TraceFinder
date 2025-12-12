@@ -1,52 +1,58 @@
+#############################selected########################################
 import os
 import cv2
-import pandas as pd
-from concurrent.futures import ProcessPoolExecutor, as_completed
-from tqdm import tqdm
-INPUT_FOLDER = "/content/drive/MyDrive/a/originals"
+from skimage import io, img_as_float
+import numpy as np
+
+base_path =  "/content/drive/MyDrive/a"
+
+INPUT_FOLDER = "/content/drive/MyDrive/a"
 OUTPUT_FOLDER = "/content/drive/MyDrive/a/Output"
 CSV_FILE = "/content/drive/MyDrive/a/labels.csv"
-IMAGE_SIZE = (512, 512)
-GRAYSCALE = True
-NUM_PROCESSES = 8
-os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
-def process_image(image_path):
-    try:
-        img = cv2.imread(image_path)
-        if img is None:
-            return None
 
-        img = cv2.resize(img, IMAGE_SIZE)
-        if GRAYSCALE:
-            img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+csv_file = "scanner_dataset_small.csv"
 
-        filename = os.path.basename(image_path)
-        save_path = os.path.join(OUTPUT_FOLDER, filename)
-        cv2.imwrite(save_path, img)
-        return filename
-    except Exception as e:
-        print(f"Error processing {image_path}: {e}")
-        return None
+def resize_and_grayscale_dataset(input_dir, output_dir, target_size=(512, 512)):
 
-image_paths = [os.path.join(root, f)
-               for root, _, files in os.walk(INPUT_FOLDER)
-               for f in files if f.lower().endswith(('.tif', '.png', '.jpg', '.jpeg', '.bmp', '.tiff'))]
+    os.makedirs(output_dir, exist_ok=True)
 
-if not image_paths:
-    print("No images found in", INPUT_FOLDER)
-else:
-    processed_files = []
-    with ProcessPoolExecutor(max_workers=NUM_PROCESSES) as executor:
-        futures = {executor.submit(process_image, path): path for path in image_paths}
-        for f in tqdm(as_completed(futures), total=len(futures), desc="Processing images"):
-            result = f.result()
-            if result:
-                processed_files.append(result)
+    processed_count = 0
 
-    os.makedirs(os.path.dirname(CSV_FILE), exist_ok=True)
-    df = pd.DataFrame({"filename": processed_files})
-    df.to_csv(CSV_FILE, index=False)
+    for root, dirs, files in os.walk(input_dir):
+        # Create corresponding output subfolder structure
+        rel_path = os.path.relpath(root, input_dir)
+        out_root = os.path.join(output_dir, rel_path)
+        os.makedirs(out_root, exist_ok=True)
 
-    print("Preprocessing complete!")
-    print(f"Total images processed: {len(processed_files)}")
+        for file in files:
+            if not file.lower().endswith(('.png', '.jpg', '.jpeg', '.tif', '.tiff')):
+                continue
+
+            img_path = os.path.join(root, file)
+
+            try:
+                # Load as grayscale, convert to float [0,1], resize
+                img = io.imread(img_path, as_gray=True)
+                img = img_as_float(img)
+                img_resized = cv2.resize(img, target_size, interpolation=cv2.INTER_AREA)
+
+                # Save as grayscale PNG (lossless)
+                out_path = os.path.join(out_root, f"{os.path.splitext(file)[0]}_gray_{target_size[1]}x{target_size[0]}.png")
+                cv2.imwrite(out_path, (img_resized * 255).astype(np.uint8))
+
+                processed_count += 1
+
+            except Exception as e:
+                print(f"Error processing {img_path}: {e}")
+                continue
+
+    print(f"Processed {processed_count} images. Saved to {output_dir}")
+
+# Usage example
+if __name__ == "__main__":
+    INPUT_DATASET = "/content/drive/MyDrive/a/originals"
+    OUTPUT_GRAY = "/content/drive/MyDrive/a/Output/"
+
+    resize_and_grayscale_dataset(INPUT_DATASET, OUTPUT_GRAY, target_size=(512, 512))
+    print("Dataset preprocessing complete!")

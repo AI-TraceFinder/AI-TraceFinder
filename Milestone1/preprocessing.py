@@ -1,4 +1,3 @@
-#############################selected########################################
 import os
 import cv2
 from skimage import io, img_as_float

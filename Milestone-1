@@ -1,0 +1,64 @@
+# TraceFinder - Forensic Scanner Identification
+
+## Project Statement
+The aim of this project is to identify the source scanner device used to scan a document or image by analyzing the unique patterns or artifacts left behind during the scanning process. Each scanner (brand/model) introduces specific noise, texture, or compression traces that can be learned by a machine learning model. This project is important in forensic investigations, copyright authentication, and document verification tasks.
+
+## Use Cases
+
+### Digital Forensics
+- Determine which scanner was used to forge or duplicate legal documents.
+- Example: Detect whether a fake certificate was created using a specific scanner model.
+
+### Document Authentication
+- Identify the source of printed and scanned images to detect tampering or fraudulent claims.
+- Example: Differentiate between scans from authorized and unauthorized departments.
+
+### Legal Evidence Verification
+- Ensure scanned copies submitted in court/legal matters came from known and approved devices.
+- Example: Verify that scanned agreements originated from the company’s official scanner.
+
+## Outcomes
+By the end of this project, I will:
+- Understand the concept of source device identification.
+- Extract scanner-specific features such as noise patterns, frequency domain signals, and artifacts.
+- Train a classification model to distinguish among multiple scanners.
+- Evaluate model accuracy and visualize feature importance.
+- Optionally deploy a simple app to upload and identify the scanner source.
+
+## Dataset
+Custom collected dataset  
+- Manually scanned images using at least 3–5 different scanner models/brands  
+- Images saved in lossless format (PNG/TIFF) at consistent settings (300–600 DPI)
+
+## System Architecture
+![System Architecture](System_Architecture.png)
+*(Diagram to be added after creation)*
+
+## Modules to Be Implemented
+1. **Data Collection & Labeling**  
+   - Manually scan sample images using multiple scanners  
+   - Assign proper labels based on source device
+
+2. **Image Preprocessing**  
+   - Resize, convert to grayscale if needed  
+   - Normalize pixels and structure the dataset
+
+3. **Feature Extraction**  
+   - Extract noise patterns using filters (wavelet, FFT)  
+   - Compute PRNU, texture descriptors, edge patterns
+
+4. **Model Training**  
+   - Train classifiers (CNN, Random Forest, SVM)  
+   - Evaluate on validation set
+
+5. **Output System**  
+   - Upload an image → return probable scanner model  
+   - Optional: Show confidence score + feature map
+
+## Week-wise Plan
+*(Followed as per project schedule – screenshots and results added progressively in this report and notebook)*
+
+## Evaluation Criteria
+- Correct data collection and labeling  
+- Model accuracy >85% on at least 3–5 scanners  
+- Clear documentation with screenshots, confusion matrix, and explainability.

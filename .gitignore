@@ -7,6 +7,8 @@ Wikipedia/
 # Ignore CSV outputs if you don’t want them in repo
 milestone1/processed_images/
 milestone1/*.csv
+milestone2/features.csv
+
 
 # Ignore Python cache
 __pycache__/

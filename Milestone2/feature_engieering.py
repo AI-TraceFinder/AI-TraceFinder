@@ -10,16 +10,14 @@ from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
 
 
-# -------------------------------------------------
-# IMAGE PATHS (ONLY TWO IMAGES: INPUT & OUTPUT)
-# -------------------------------------------------
+# IMAGE PATHS 
 input_image_path = "C:\\Users\\HP\\Desktop\\sample_input\\input.tif"
 output_image_path = "C:\\Users\\HP\\Desktop\\sample_output\\ouput.png"
 
 
-# -------------------------------------------------
+
 # LOAD IMAGES
-# -------------------------------------------------
+
 input_img = cv2.imread(input_image_path, cv2.IMREAD_GRAYSCALE)
 output_img = cv2.imread(output_image_path, cv2.IMREAD_GRAYSCALE)
 
@@ -30,9 +28,9 @@ input_img = cv2.resize(input_img, (256, 256))
 output_img = cv2.resize(output_img, (256, 256))
 
 
-# -------------------------------------------------
+
 # NOISE EXTRACTION FUNCTION
-# -------------------------------------------------
+
 def extract_noise(image):
     blur = cv2.GaussianBlur(image, (5, 5), 0)
     noise = cv2.absdiff(image, blur)
@@ -43,9 +41,9 @@ input_noise = extract_noise(input_img)
 output_noise = extract_noise(output_img)
 
 
-# -------------------------------------------------
+
 # DISPLAY NOISE MAPS
-# -------------------------------------------------
+
 plt.figure(figsize=(8, 4))
 
 plt.subplot(1, 2, 1)
@@ -61,9 +59,9 @@ plt.axis("off")
 plt.show()
 
 
-# -------------------------------------------------
+
 # FFT FEATURE EXTRACTION
-# -------------------------------------------------
+
 def fft_features(image):
     f = np.fft.fft2(image)
     fshift = np.fft.fftshift(f)
@@ -75,9 +73,8 @@ input_fft = fft_features(input_img)
 output_fft = fft_features(output_img)
 
 
-# -------------------------------------------------
 # LBP FEATURE EXTRACTION
-# -------------------------------------------------
+
 def lbp_features(image):
     lbp = local_binary_pattern(image, P=8, R=1, method="uniform")
     hist, _ = np.histogram(lbp, bins=10, range=(0, 10))
@@ -90,9 +87,7 @@ input_lbp = lbp_features(input_img)
 output_lbp = lbp_features(output_img)
 
 
-# -------------------------------------------------
-# CREATE FEATURE DATASET
-# -------------------------------------------------
+
 X = []
 y = []
 
@@ -110,17 +105,13 @@ print(f"\nDataset created with {len(X)} samples")
 print(f"Feature vector size: {X.shape[1]}")
 
 
-# -------------------------------------------------
-# DISPLAY FEATURE COMPARISON
-# -------------------------------------------------
+
 print("\nFeature Comparison:")
 print(f"Input Image - FFT mean: {input_fft[0]:.2f}, FFT std: {input_fft[1]:.2f}")
 print(f"Output Image - FFT mean: {output_fft[0]:.2f}, FFT std: {output_fft[1]:.2f}")
 print(f"LBP histogram difference (L1 norm): {np.sum(np.abs(input_lbp - output_lbp)):.4f}")
 
 
-# Note: With only 2 samples, we cannot do traditional train-test split
-# We'll use the data for demonstration purposes only
 print("\n" + "="*50)
 print("Note: With only 2 images, proper ML training is not feasible.")
 print("This demonstrates feature extraction only.")
@@ -128,3 +119,4 @@ print("="*50)
 
 
 print("\nMilestone 2 execution completed successfully.")
+

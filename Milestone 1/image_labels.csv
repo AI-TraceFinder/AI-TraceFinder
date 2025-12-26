@@ -1,0 +1,590 @@
+image_path,category,scanner_model,file_name,width,height,channels_or_mode,format,dpi,file_size_bytes,md5
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\Canon120-1\150.tif,flatfield,Flatfield,150.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,7c34c254afa48e0aec2925cfbdefcc85
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\Canon120-1\300.tif,flatfield,Flatfield,300.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,b1a502c9ae888eb7cee80479c3aec301
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\Canon120-2\150.tif,flatfield,Flatfield,150.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,c906ae90c91d0e8ce1e6eaea93e9c3ca
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\Canon120-2\300.tif,flatfield,Flatfield,300.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,f970446d24434cf9d843581303eedfca
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\Canon220\150.tif,flatfield,Flatfield,150.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,9db49ff8b817047d5ef6da64de902cfb
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\Canon220\300.tif,flatfield,Flatfield,300.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,95d5412b571a96a2a25939fac6449583
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\Canon9000-1\150.tif,flatfield,Flatfield,150.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,3be245a79815feb752da5eeeaf54e63d
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\Canon9000-1\300.tif,flatfield,Flatfield,300.tif,2480.0,3508.0,RGB,TIFF,301.0,26106953,f777eee816af23218f6bc3ac31e47c70
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\Canon9000-2\150.tif,flatfield,Flatfield,150.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,a32839f8cfb169546c76ab232e406183
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\Canon9000-2\300.tif,flatfield,Flatfield,300.tif,2480.0,3508.0,RGB,TIFF,301.0,26106953,7969f9a5cc09fca054ad7d8123eb78fc
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\EpsonV370-1\150.tif,flatfield,Flatfield,150.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,be555d702b2059ad8bede98bb26270e5
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\EpsonV370-1\300.tif,flatfield,Flatfield,300.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,d4d54f92bf9284cbcabdfad222a24d3a
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\EpsonV370-2\150.tif,flatfield,Flatfield,150.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,53a996def53ea9c2a4bf5af0f8884447
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\EpsonV370-2\300.tif,flatfield,Flatfield,300.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,1956367b02a2a66911755f15ebe222ff
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\EpsonV39-1\._150.tif,flatfield,Flatfield,._150.tif,,,,,,4096,b7a3c379df839af1c2b3eff6cb5f8dcf
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\EpsonV39-1\150.tif,flatfield,Flatfield,150.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,4c4d970589deb367780bfd81d4ae2b2c
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\EpsonV39-1\300.tif,flatfield,Flatfield,300.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,bf8de8cfc6fc5e76efa37cd23730bc9e
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\EpsonV39-2\150.tif,flatfield,Flatfield,150.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,e0ce896e6f20290b7985838dc17b3594
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\EpsonV39-2\300.tif,flatfield,Flatfield,300.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,e0564b4e413ed9290ab30e00202a3e07
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\EpsonV550\150.tif,flatfield,Flatfield,150.tif,1239.0,1754.0,RGB,TIFF,151.0,6521797,a3bf683b012afcd75574ad9f98cd6b5a
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\EpsonV550\300.tif,flatfield,Flatfield,300.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,223d4570caa7f288522e9ace2c51bf93
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\HP\150.tif,flatfield,Flatfield,150.tif,1240.0,1743.0,RGB,TIFF,150.0,6486119,7fd9f1df3a9a64bb92471da66a6f59f6
+C:\Users\Admin\AI_TraceFinder\data\flatfield\Flatfield\HP\300.tif,flatfield,Flatfield,300.tif,2480.0,3503.0,RGB,TIFF,300.0,26069743,b9c5e1d9ca7c920f975df0b773aed5e8
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon120-1\150\s1_60.tif,official_scans,Official,s1_60.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,db3cf65e43a063acad94a922526903a5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon120-1\150\s1_61.tif,official_scans,Official,s1_61.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,5c9b1a10672c433d3c7bed686ff7650e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon120-1\150\s1_68.tif,official_scans,Official,s1_68.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,12799ec21cf9ce3a62d8fa8d0dea8441
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon120-1\150\s1_70.tif,official_scans,Official,s1_70.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,cd0db02f6a582ab2766757772860e810
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon120-1\150\s1_76.tif,official_scans,Official,s1_76.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,105014df1b02e811ab014d454d4b0568
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon120-1\150\s1_83.tif,official_scans,Official,s1_83.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,e11bdba537a758ff5c52a0224c40af77
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon120-1\150\s1_87.tif,official_scans,Official,s1_87.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,020835293572b13c3b4865036257d71e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon120-2\150\s2_66.tif,official_scans,Official,s2_66.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,6fdba1466e81e7517c1b64171b44dab5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon120-2\150\s2_73.tif,official_scans,Official,s2_73.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,daed85307d26ccc0472e421be6ccc55c
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon120-2\150\s2_81.tif,official_scans,Official,s2_81.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,ba647506dd4f99022540615be8c408bd
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon120-2\150\s2_98.tif,official_scans,Official,s2_98.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,f638a0550e848fb999528a2416e2f891
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\150\s3_65.tif,official_scans,Official,s3_65.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,3c02b1ff002edf3d29c08586aec05c03
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\150\s3_86.tif,official_scans,Official,s3_86.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,17b241e1a23f280d8ae8755e13a5c27e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\150\s3_95.tif,official_scans,Official,s3_95.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,f20aaf9747f031ddf2e43c2430c1c320
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_100.tif,official_scans,Official,s3_100.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,adfe967127c7501010544f3ad62083e7
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_47.tif,official_scans,Official,s3_47.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,e5cb1f31f1060da9e593886748aaeab4
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_83.tif,official_scans,Official,s3_83.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,6a368ec411854975c64f6d99d791d9a4
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_84.tif,official_scans,Official,s3_84.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,fbd34226e2f52110f2f953322d19f575
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_85.tif,official_scans,Official,s3_85.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,48c736105098ccab5469eda8832a9535
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_86.tif,official_scans,Official,s3_86.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,57de29278fdc0d1b2dc65debb73a2859
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_87.tif,official_scans,Official,s3_87.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,d102c1dedc9587f5c827f2d344e920b5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_88.tif,official_scans,Official,s3_88.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,eebbb652983ae959a0d2977d40f1ab5f
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_89.tif,official_scans,Official,s3_89.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,b4092bb13d2d7cbabe55b1262184fd29
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_90.tif,official_scans,Official,s3_90.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,61bb63e8c37ef5ff79dc4dd1ce3420f5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_91.tif,official_scans,Official,s3_91.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,3b819e1376e28384ce9067bc6b034c33
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_92.tif,official_scans,Official,s3_92.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,1c57ab79dd31825dc1d8781ba82a5b7e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_93.tif,official_scans,Official,s3_93.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,0da92be60a2a820353e7149340ef48b8
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_94.tif,official_scans,Official,s3_94.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,f819edabf358e3dce81eb97fbd01a0e3
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_95.tif,official_scans,Official,s3_95.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,4f61b22e61de15684b734bcb11511c90
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_96.tif,official_scans,Official,s3_96.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,2268a1d830112d78a799fe52bf06ae6f
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_97.tif,official_scans,Official,s3_97.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,6019d20f8a3157375c809d1ee703998e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_98.tif,official_scans,Official,s3_98.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,36f22e45d62c7914938d0e3f056421a0
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon220\300\s3_99.tif,official_scans,Official,s3_99.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,cdf50be1455acb0e9a1296734f28f7b6
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_100.tif,official_scans,Official,s4_100.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,9c0ea891317c940db59632e107466728
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_11.tif,official_scans,Official,s4_11.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,5d6a441acc93f17fbd8d2d3b14cbc3e7
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_14.tif,official_scans,Official,s4_14.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,adf7e2333ce01a7637673eca88baa402
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_21.tif,official_scans,Official,s4_21.tif,1240.0,1754.0,RGB,TIFF,151.0,6527049,6749ddab270720a2131d7a42dabe8e7e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_30.tif,official_scans,Official,s4_30.tif,1240.0,1754.0,RGB,TIFF,151.0,6527049,0748038a3dd43f350fbef76e95b4a9c7
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_34.tif,official_scans,Official,s4_34.tif,1240.0,1754.0,RGB,TIFF,151.0,6527049,440bd9b853a03a5ab923de34d3085cf4
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_35.tif,official_scans,Official,s4_35.tif,1240.0,1754.0,RGB,TIFF,151.0,6527049,41dd0a3e4ec5447863074828653736a8
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_39.tif,official_scans,Official,s4_39.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,d08952b39a0b7e8b31833e692fbc688d
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_40.tif,official_scans,Official,s4_40.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,9c3eda165999853be15c6fec3894748d
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_41.tif,official_scans,Official,s4_41.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,f33168a818f4c82830bd977209b2682d
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_43.tif,official_scans,Official,s4_43.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,bd1e5631c145520bd05c6aa3963e84c0
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_44.tif,official_scans,Official,s4_44.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,d6c83f1f260dd70dcd853e45fe9f1ebb
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_48.tif,official_scans,Official,s4_48.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,6f076a424da4659a8714524e6236c322
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_68.tif,official_scans,Official,s4_68.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,b48c75e8454f6f8a17284a11c7c4935b
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_70.tif,official_scans,Official,s4_70.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,406f12646900845e89a7cf9219f469f5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_75.tif,official_scans,Official,s4_75.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,3489abdca6174fa77e89717f02349899
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_76.tif,official_scans,Official,s4_76.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,417cf78301fc51c103dc8c08c8168cbf
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_77.tif,official_scans,Official,s4_77.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,c041d7cc8ad402b9649e22d37af9f863
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_78.tif,official_scans,Official,s4_78.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,b9ac6ead050c63bd9f132ec331a8fd85
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_79.tif,official_scans,Official,s4_79.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,e2dd762d93572ace5d3aa0846e4ce6d8
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_80.tif,official_scans,Official,s4_80.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,ffd5dc0c437f065aae19af3160354347
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_81.tif,official_scans,Official,s4_81.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,a3e551d952225319e1fdc5d0e9c8cc97
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_82.tif,official_scans,Official,s4_82.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,571b586f789c5b6e123729fd05b3c4e6
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_83.tif,official_scans,Official,s4_83.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,712910dc15a2f215277b5f515c48a627
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_84.tif,official_scans,Official,s4_84.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,73abd70d8d3a3c2bbebf9d1625d15bac
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_85.tif,official_scans,Official,s4_85.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,c42d6fbf6a3cd6271371a4c3d29bb569
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_86.tif,official_scans,Official,s4_86.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,1154164348ddc36d8a2fbac2bbad9a4d
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_87.tif,official_scans,Official,s4_87.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,59c768685c5f9aeb9957023c68bdffaa
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_88.tif,official_scans,Official,s4_88.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,267fe2b3e3ac9928ac4b5541fc0fc950
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_89.tif,official_scans,Official,s4_89.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,7c3f01a707aa5c66a4059b64f0e8c8c2
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_9.tif,official_scans,Official,s4_9.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,ff75d6747c7c056903965eb6c6c37687
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_90.tif,official_scans,Official,s4_90.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,dee445ec909b4b3942961d8ed6a63957
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_91.tif,official_scans,Official,s4_91.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,29647b6ba4ccef11315fed9785cc360c
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_92.tif,official_scans,Official,s4_92.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,e3a45bccd7767759b3abe8869e8a4239
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_93.tif,official_scans,Official,s4_93.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,0fae8082d7147b13ea93b63f8156d2ce
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_94.tif,official_scans,Official,s4_94.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,1ce292e4c46210470613518eaf25e170
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_95.tif,official_scans,Official,s4_95.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,4140c7d19b00318cd687cd86691b5071
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_96.tif,official_scans,Official,s4_96.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,22714bb485aa795f0a57d66dc941378c
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_97.tif,official_scans,Official,s4_97.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,94380a3a86507afcd40c9f3f43fdff9e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_98.tif,official_scans,Official,s4_98.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,2c8ffe32d1d86441aa9f0e310e05d465
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\150\s4_99.tif,official_scans,Official,s4_99.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,b860e72d33ccf59251fda35a61d9bbc8
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\300\s4_75.tif,official_scans,Official,s4_75.tif,2480.0,3508.0,RGB,TIFF,301.0,26106953,ef2e98a08118e32f9cc0962db361da70
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\300\s4_76.tif,official_scans,Official,s4_76.tif,2480.0,3508.0,RGB,TIFF,301.0,26106953,0b11fe5387c62e87f88bb73cd9c87078
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\Canon9000-1\300\s4_93.tif,official_scans,Official,s4_93.tif,2480.0,3508.0,RGB,TIFF,301.0,26106953,7d7baf587f8fd859c8e0732fc4baa0b3
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\150\s6_91.tif,official_scans,Official,s6_91.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,a98a4051b424151f84586da743b9b04d
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\150\s6_95.tif,official_scans,Official,s6_95.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,5db902331c22fc727c50ff3d267baf55
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\150\s6_99.tif,official_scans,Official,s6_99.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,7b41a0f15064707ad8a5961aa6ae15b6
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_100.tif,official_scans,Official,s6_100.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,d4763de5eac0695aaf21a6ae06678023
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_82.tif,official_scans,Official,s6_82.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,3e4a77a014f986d6a0488ac2d09bbb6f
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_83.tif,official_scans,Official,s6_83.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,54a0d6e9a925551a1695e31a4bf1b32c
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_84.tif,official_scans,Official,s6_84.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,735ea0e6567f3986ef14b302f1b79c87
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_86.tif,official_scans,Official,s6_86.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,cb64043f4520317e1a690c172a798eb2
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_87.tif,official_scans,Official,s6_87.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,64200f59d095a6df4be47256effb42bd
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_88.tif,official_scans,Official,s6_88.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,f9fb1cac701bead07f3f7ad51ca8695b
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_89.tif,official_scans,Official,s6_89.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,56491db2acd888daf5ccdd75de36c832
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_90.tif,official_scans,Official,s6_90.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,2667614fa6e689f9b99bdd342b4835bc
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_91.tif,official_scans,Official,s6_91.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,795963fc702116878d1f4836233c121f
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_92.tif,official_scans,Official,s6_92.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,e460f8a2ad85556debd3ee5bdc49ae1f
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_93.tif,official_scans,Official,s6_93.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,08f4294a458af0f78d5a59bac5e537e7
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_94.tif,official_scans,Official,s6_94.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,efdfae93fb8cce05ab2143b7ffaa7353
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_95.tif,official_scans,Official,s6_95.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,2e150dc702df4c2e24a52b96309edd71
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_96.tif,official_scans,Official,s6_96.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,fb342d44cbadcfd466cd454c838637aa
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_97.tif,official_scans,Official,s6_97.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,bf7cd6c7668e8bd45320e19977385d3e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_98.tif,official_scans,Official,s6_98.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,9fe85f9a2450e78a334f2d6d08a30ecd
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-1\300\s6_99.tif,official_scans,Official,s6_99.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,9374c51147cfe94f1eccf1c4e253b94a
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_100.tif,official_scans,Official,s7_100.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,5dbf5eb954e8ab6d6d5ff4abf49b916f
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_12.tif,official_scans,Official,s7_12.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,48ba92031f9bdd2c39ee1df3bbb6de0e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_16.tif,official_scans,Official,s7_16.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,34ac67c28d634a5cb024b783afe19a4f
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_17.tif,official_scans,Official,s7_17.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,c6a99e3c3dd3868e41a80390b136553a
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_22.tif,official_scans,Official,s7_22.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,2bfdd7f85c1382f6834c2ba63048a0f2
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_25.tif,official_scans,Official,s7_25.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,85c8f09e40b9c15509846b14857fe41f
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_26.tif,official_scans,Official,s7_26.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,cf6453d7a51a55236c499939eb3d61b8
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_27.tif,official_scans,Official,s7_27.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,2f2eb786a2c9ff802ad1778a6068987a
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_28.tif,official_scans,Official,s7_28.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,b18471f98c0e53c0dedc4cb3d218c0fa
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_29.tif,official_scans,Official,s7_29.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,dfcc9a434d60da932a2ca4a36d1c72bd
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_3.tif,official_scans,Official,s7_3.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,0f87ed4ce5d945087d427a60d4d5cc06
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_31.tif,official_scans,Official,s7_31.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,1111109aceacbbe8f7c958a0c493ed0d
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_33.tif,official_scans,Official,s7_33.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,0f56fbfcb27af577c9d756fd0a84b47d
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_37.tif,official_scans,Official,s7_37.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,a6bc7da1318233c1d72b2fefd21387da
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_4.tif,official_scans,Official,s7_4.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,e4a0c855e762c59052762c16efa3e46b
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_46.tif,official_scans,Official,s7_46.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,3b3bd9a0fed11cde0b2f91fbc58fa9e5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_50.tif,official_scans,Official,s7_50.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,f3bf3803a02a4139a7e90b68b7ab1702
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_51.tif,official_scans,Official,s7_51.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,e488924364d67e50af8e612833e18f98
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_54.tif,official_scans,Official,s7_54.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,08656eefde215aafbf40fe144d3f3e70
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_57.tif,official_scans,Official,s7_57.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,e8a3e6fda2f25f7a79d4fae6f904fbd5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_58.tif,official_scans,Official,s7_58.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,658321c48dbf5eea69240d83bc68b027
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_6.tif,official_scans,Official,s7_6.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,37271d3b40f107bda8595b682ec8f755
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_62.tif,official_scans,Official,s7_62.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,0491a4012b1ee89d88fdcb79e3d181a3
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_63.tif,official_scans,Official,s7_63.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,ee6c54e0862931818e2222eea085b67c
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_64.tif,official_scans,Official,s7_64.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,51c5b85fec2909940c62cbeb5aaccc07
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_65.tif,official_scans,Official,s7_65.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,921d935ed5f5d87ca2d15f08450b48c0
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_66.tif,official_scans,Official,s7_66.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,19d4af2fd9fe8eeaa75b799d36d23fe1
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_67.tif,official_scans,Official,s7_67.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,4f990bc8b3eed8125c9845400c930b69
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_68.tif,official_scans,Official,s7_68.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,8ca08b2e9ce9b0f577f2fd0fdf4de317
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_69.tif,official_scans,Official,s7_69.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,b8b36cf16ae6b454c6797ca1fe2077f2
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_70.tif,official_scans,Official,s7_70.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,48bb56b0669319e8b83cc269b42fef9e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_71.tif,official_scans,Official,s7_71.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,b991925f81640fa4c5cf49077de72bc9
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_72.tif,official_scans,Official,s7_72.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,b922c33ee1bac67ddcbfbfbd86515fff
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_73.tif,official_scans,Official,s7_73.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,21094f9259c079df31dda1e142fb0f4d
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_74.tif,official_scans,Official,s7_74.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,76ec286b10e3f41f2f641829e61bba09
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_75.tif,official_scans,Official,s7_75.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,215de14eced302e1463dcbb39157ca9e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_76.tif,official_scans,Official,s7_76.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,9b04a6546374b1b51c6f829d76086f46
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_77.tif,official_scans,Official,s7_77.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,0d5f18cf19b08a41df223d20a0a75ef9
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_78.tif,official_scans,Official,s7_78.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,4f38b26d1ae1b662b67848ab3bdd1c4c
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_79.tif,official_scans,Official,s7_79.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,59de9efb43b26d56da26e94e5bbd3688
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_80.tif,official_scans,Official,s7_80.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,9eb018fc7fb0433188eb0ebb858ca6b2
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_81.tif,official_scans,Official,s7_81.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,7c950d1aeb3da572bc92f2b589c81325
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_82.tif,official_scans,Official,s7_82.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,65a14e13fc7e2ff86de12f6b2f026807
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_83.tif,official_scans,Official,s7_83.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,602ec619f76fcfd5e6df7626ccb3aa31
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_84.tif,official_scans,Official,s7_84.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,e775d5b00f23f2eb425ace4b6c6945eb
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_85.tif,official_scans,Official,s7_85.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,49a1df120d76b29dff5f5c5ad1abce27
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_86.tif,official_scans,Official,s7_86.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,4a0ec8417e201ba5caa616eaf6681c8d
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_87.tif,official_scans,Official,s7_87.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,dea865194d083f09d36b7c8248b14e12
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_88.tif,official_scans,Official,s7_88.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,0798b48494d90b68d48db88314935ed5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_89.tif,official_scans,Official,s7_89.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,57463faa6614cd53788f23033def1683
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_9.tif,official_scans,Official,s7_9.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,fc8d8c1343bc81c93feb1092762d4509
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_90.tif,official_scans,Official,s7_90.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,22c49cd497d5b71152f7fe29f428c031
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_91.tif,official_scans,Official,s7_91.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,e63816c32299cb7430ea8d5a33f813e2
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_92.tif,official_scans,Official,s7_92.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,649fd56821f06491f9b83f245681783b
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_93.tif,official_scans,Official,s7_93.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,6a53d783e8a7e5b65e26c1b38f561b45
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_94.tif,official_scans,Official,s7_94.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,7b5217699bd69ba16feb1f68d883838f
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_95.tif,official_scans,Official,s7_95.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,1b34219cc8b94ae662545b7afebb4130
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_96.tif,official_scans,Official,s7_96.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,5ceda7c1f8d2811c9e2e381e38201bc5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_97.tif,official_scans,Official,s7_97.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,c4e8733ce8bc0dcb6e94382c9053ad2e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_98.tif,official_scans,Official,s7_98.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,80141748b035e1e2cb12e7799b19b563
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV370-2\150\s7_99.tif,official_scans,Official,s7_99.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,1483f286933f4acfac419f641a3895be
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_100.tif,official_scans,Official,s8_100.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,f721f610df4c8ba3c3e445acc5d3770e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_18.tif,official_scans,Official,s8_18.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,9cde1619781cbf75cf67254b05d0de30
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_24.tif,official_scans,Official,s8_24.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,e7b3ddd010d47619b42f23c6acd30c92
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_33.tif,official_scans,Official,s8_33.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,bbd0358773dfd58b99ef1bfe6169e732
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_41.tif,official_scans,Official,s8_41.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,df25b80dc2425c02a6e03ff55808effc
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_46.tif,official_scans,Official,s8_46.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,bb11e0e880c5e0d59272fc411a1a9bf5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_47.tif,official_scans,Official,s8_47.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,6a9ef58e17e5604f25fb8e38273bffb1
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_48.tif,official_scans,Official,s8_48.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,97c8edd052caebe2ece015138d657045
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_49.tif,official_scans,Official,s8_49.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,cbd5ae6c18ed6e59627bf50a0e5c1ade
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_51.tif,official_scans,Official,s8_51.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,bcad05341a832f2345d919315d20cef7
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_53.tif,official_scans,Official,s8_53.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,3df310c24efbd1d29364d11d7c5a7531
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_57.tif,official_scans,Official,s8_57.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,5cf378f1296fe8dfcb909439c15753b1
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_6.tif,official_scans,Official,s8_6.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,d9c0951c5c6cb722fa41a0eae4322599
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_60.tif,official_scans,Official,s8_60.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,8bb176b8b2a500618e50fb79f86bb887
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_69.tif,official_scans,Official,s8_69.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,d3d90643d44a039f52e4511e1e17bc13
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_78.tif,official_scans,Official,s8_78.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,9281d4ea19826d7e8a73483fca0224cd
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_83.tif,official_scans,Official,s8_83.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,da1b195b05b84adc6126322bed7f793b
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_84.tif,official_scans,Official,s8_84.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,4d28242f9429b228211886e067c1a33a
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_86.tif,official_scans,Official,s8_86.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,35d410e0139aa8586dc3bc23b2541d69
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_87.tif,official_scans,Official,s8_87.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,012aef26992b2d37aa5bff2b269a1631
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_88.tif,official_scans,Official,s8_88.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,fa428929ed30be3dc3e3aa375f3c8f1b
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_89.tif,official_scans,Official,s8_89.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,27ed73ae172065b96efde7a2b5472319
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_90.tif,official_scans,Official,s8_90.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,a5f163c9eef74f6a2a9ffe4b1d067f9e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_91.tif,official_scans,Official,s8_91.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,8768343a501b55d69b4279a787b26435
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_92.tif,official_scans,Official,s8_92.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,882dab96bc11388eb0697299cef0fe87
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_93.tif,official_scans,Official,s8_93.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,4eb8fbf980e0f5052ea402031a829c6e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_94.tif,official_scans,Official,s8_94.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,ca80440618d2135d7a2697df224a11c5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_95.tif,official_scans,Official,s8_95.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,6e126a1d749c7dcf5af24d5ac5406162
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_96.tif,official_scans,Official,s8_96.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,32994921dbad8b32bbc7bd35ac3c1af2
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_97.tif,official_scans,Official,s8_97.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,705f834467ea6f00022d61e73811835a
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_98.tif,official_scans,Official,s8_98.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,bcb1f3d2979eb3a30bcb52bb5b4677e8
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\150\s8_99.tif,official_scans,Official,s8_99.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,df196ad433920966072144ddc257c4fd
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\300\s8_70.tif,official_scans,Official,s8_70.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,b1436516f22b0046e817e1b1258e8aa4
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\300\s8_71.tif,official_scans,Official,s8_71.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,ef8bac6dae6ca641f4dee66ee5ca97fc
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\300\s8_72.tif,official_scans,Official,s8_72.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,eb3d71c6d09e36a89d4f88fc4c1155d4
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-1\300\s8_73.tif,official_scans,Official,s8_73.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,cf098f143b11be95f7ed65c99b185a88
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-2\300\s9_100.tif,official_scans,Official,s9_100.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,ed069401efc1dc70dfbb4d2f59a065ff
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-2\300\s9_73.tif,official_scans,Official,s9_73.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,c0340eb0c8ed1a0439e509f40c63f889
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-2\300\s9_92.tif,official_scans,Official,s9_92.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,98f46a108b1e6ee0aff41ab2da9c3f0d
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV39-2\300\s9_98.tif,official_scans,Official,s9_98.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,ca07c58efd70b223b66fef944006c4c2
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV550\150\s10_85.tif,official_scans,Official,s10_85.tif,1239.0,1754.0,RGB,TIFF,151.0,6521797,2f80d56e06f997cfba1f5da7ab2e1d5b
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV550\150\s10_90.tif,official_scans,Official,s10_90.tif,1239.0,1754.0,RGB,TIFF,151.0,6521797,75ac3389ccfe7fa0fbc60aad03f7d484
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV550\150\s10_95.tif,official_scans,Official,s10_95.tif,1239.0,1754.0,RGB,TIFF,151.0,6521797,be668ecf360a5b7c1187ff813d14f4e0
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV550\150\s10_99.tif,official_scans,Official,s10_99.tif,1239.0,1754.0,RGB,TIFF,151.0,6521797,147a960122320001603832bfb34eb99c
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV550\300\s10_63.tif,official_scans,Official,s10_63.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,93480bdea99e11e526d81e4f64ba8329
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\EpsonV550\300\s10_64.tif,official_scans,Official,s10_64.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,df2fa406c6042a56cae46f10faa9e10e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\150\s11_74.tif,official_scans,Official,s11_74.tif,1240.0,1743.0,RGB,TIFF,150.0,6486119,94629bb457a2acd2c9340f75993a3ec4
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\150\s11_89.tif,official_scans,Official,s11_89.tif,1240.0,1727.0,RGB,TIFF,150.0,6426583,62d31bcf93fa4ef2018db35a42217687
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_100.tif,official_scans,Official,s11_100.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,899d48fb2d98b4409f3fb585cade2f19
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_40.tif,official_scans,Official,s11_40.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,cf3296df0818335e25991bb69583116c
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_56.tif,official_scans,Official,s11_56.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,4da389a519cadf07064780fef42acd41
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_74.tif,official_scans,Official,s11_74.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,8ee9d0c6fec372da73de46c1075f7bb9
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_75.tif,official_scans,Official,s11_75.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,8f8834e816f9dd49964aa9a32bd08f01
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_76.tif,official_scans,Official,s11_76.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,8e578a81ac17cec61211a32d66b5f62a
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_77.tif,official_scans,Official,s11_77.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,75ae8904bb9d5876c8e1165b402da255
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_78.tif,official_scans,Official,s11_78.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,3c468ce812fd5dd9acdcffe8fdccc826
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_79.tif,official_scans,Official,s11_79.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,22936e865c963e80a707932f24bf3cfe
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_80.tif,official_scans,Official,s11_80.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,db6d36798851dfd0c0c64bb66e0ad26e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_81.tif,official_scans,Official,s11_81.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,a9cafc50eacebf30de816373f724a97f
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_82.tif,official_scans,Official,s11_82.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,faff889e7a31ed6089a22eda3550c48e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_83.tif,official_scans,Official,s11_83.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,f0c65c9681900597f7b2dabf5778f15f
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_84.tif,official_scans,Official,s11_84.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,b89112158c510fa9fa86fd74522e1440
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_85.tif,official_scans,Official,s11_85.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,c1c76f389a94d01471464f2100aa70a9
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_86.tif,official_scans,Official,s11_86.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,cab5e628b1cf0426174b931d50947913
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_87.tif,official_scans,Official,s11_87.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,ff18b381bd28e23042876145bfb786e8
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_88.tif,official_scans,Official,s11_88.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,d494517659aa9116369b2d6517a5aad5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_89.tif,official_scans,Official,s11_89.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,6c64e2a46f00b4598259335b46fafc88
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_90.tif,official_scans,Official,s11_90.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,17a03c2f956b085d3e27016254aafb4e
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_91.tif,official_scans,Official,s11_91.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,d6d9c3f67981b51c18cd607c81dddbf5
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_92.tif,official_scans,Official,s11_92.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,a53f3cf9805856119b2c21e2b09f9f67
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_93.tif,official_scans,Official,s11_93.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,b8077cda465b5b4815dea840d0612bf9
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_94.tif,official_scans,Official,s11_94.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,bd6115c5a39d10aaef3958da00fbd1ad
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_95.tif,official_scans,Official,s11_95.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,b1566410e1d2dbd577fb2502795e0680
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_96.tif,official_scans,Official,s11_96.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,dee71a4836c17eaa265610b1e0fb08f6
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_97.tif,official_scans,Official,s11_97.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,d4a34c5923ca2f15d2e07a347bfb42e6
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_98.tif,official_scans,Official,s11_98.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,71070489809a0707a1696b36ec1a45de
+C:\Users\Admin\AI_TraceFinder\data\official_scans\Official\HP\300\s11_99.tif,official_scans,Official,s11_99.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,058afe9a600c847e779675db9556434b
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s11_19_c1.tif,tampered,Tampered images,s11_19_c1.tif,2481.0,3487.0,RGB,TIFF,300.0,25972248,a3f5c5e5ae5c51e92c31d50808d30cda
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s11_30_c1.tif,tampered,Tampered images,s11_30_c1.tif,2481.0,3487.0,RGB,TIFF,300.0,25972256,8fe5a8eaa722d1e735bb3bba467fe58e
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s11_49_c1.tif,tampered,Tampered images,s11_49_c1.tif,2481.0,3471.0,RGB,TIFF,300.0,25853176,d88a9761d84d5e817cfc5ba7315062ac
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_70_c1.tif,tampered,Tampered images,s1_70_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26118776,57432454828be6147c0e3fa760288558
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_71_c1.tif,tampered,Tampered images,s1_71_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,32488668,5e4455a0ae592398b83809a661ee25e0
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_72_c1.tif,tampered,Tampered images,s1_72_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,33796732,62fe70652f0dfc4d347ef35ed1de70e4
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_73_c1.tif,tampered,Tampered images,s1_73_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,35956524,2a0ffec6cb2192c359d1a57caab82ef4
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_74_c1.tif,tampered,Tampered images,s1_74_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,33332264,2d036d5beaa479c7283bb45fcfe38105
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_78_c1.tif,tampered,Tampered images,s1_78_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,35894212,7b868cde00c8f665efa671c6de2d76fd
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_79_c1.tif,tampered,Tampered images,s1_79_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26118220,6e09f36449e13f5677e6c856bdda3880
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_81_c1.tif,tampered,Tampered images,s1_81_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26118144,3e04d85c13162bf3bcecfa04bc1b9092
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_82_c1.tif,tampered,Tampered images,s1_82_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26118268,d986620d56ddb28f18e0838950824b29
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_83_c1.tif,tampered,Tampered images,s1_83_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26118300,ec9705e039ade2ee59437e91c297e30b
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_84_c1.tif,tampered,Tampered images,s1_84_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26118200,8dcc5dfba1e776057c87c2092ae74003
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s1_96_c1.tif,tampered,Tampered images,s1_96_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26118032,ca2593f78a7bc280c9f2527841b461c4
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s9_51_c1.tif,tampered,Tampered images,s9_51_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26117964,f7b2a180411b9ce1065ca9239d09907a
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s9_52_c1.tif,tampered,Tampered images,s9_52_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26119628,f1274f7f1f4ac2e42db8d2dcd5cf616e
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s9_56_c1.tif,tampered,Tampered images,s9_56_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26117976,8b3e161846a230451cfd32d8b6848b49
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s9_59_c1.tif,tampered,Tampered images,s9_59_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26118012,30b6c5554c7ad60f7eeab45155efe96a
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Retouching\s9_62_c1.tif,tampered,Tampered images,s9_62_c1.tif,2480.0,3508.0,RGB,TIFF,301.0,26118040,69f7dab4efdc4efa9520b02e5255884d
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Splicing\s11_38_a1.tif,tampered,Tampered images,s11_38_a1.tif,2481.0,3487.0,RGB,TIFF,300.0,25972276,342614840e76889fa6a3b5373ed6860f
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Binary masks\Splicing\s11_49_a1.tif,tampered,Tampered images,s11_49_a1.tif,2481.0,3471.0,RGB,TIFF,300.0,25853224,cf672fe40536760cad6bc793fbc50894
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s11_19.tif,tampered,Tampered images,s11_19.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,3acd58b3ab829c78946d3302abab0ffb
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s11_27.tif,tampered,Tampered images,s11_27.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,a15926d845c4574fdb1e267089adf783
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s11_29.tif,tampered,Tampered images,s11_29.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,684e8ebbc1e4f921d7d2876b4abe8745
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s11_30.tif,tampered,Tampered images,s11_30.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,c9827a8a2e0c755d634a552431163670
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s11_34.tif,tampered,Tampered images,s11_34.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,452897a0d0944dd7c7e4434865164485
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s11_35.tif,tampered,Tampered images,s11_35.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,fb90c2636a67f7350c00bf6785e06413
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s11_36.tif,tampered,Tampered images,s11_36.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,8eaec7680a3183f39af35e7295ab1157
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s11_38.tif,tampered,Tampered images,s11_38.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,e93102c8992a791605e2d609d49cea3e
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s11_4.tif,tampered,Tampered images,s11_4.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,f5904fed53c917cb69b3550e20f8c9e2
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s11_41.tif,tampered,Tampered images,s11_41.tif,2481.0,3487.0,RGB,TIFF,300.0,25961133,ca06f5e8b64b6360122027ec181987c3
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s11_49.tif,tampered,Tampered images,s11_49.tif,2481.0,3471.0,RGB,TIFF,300.0,25842013,4ef5c0489c89bdc65f1a306cdf70c559
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_70.tif,tampered,Tampered images,s1_70.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,e924b77f7bc5f9c4946d2cb74bb953d0
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_71.tif,tampered,Tampered images,s1_71.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,d9d39310296b6526ab71793db7a71ef7
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_72.tif,tampered,Tampered images,s1_72.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,7d1ea0fde5c213142888f9a09822cddd
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_73.tif,tampered,Tampered images,s1_73.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,03d1fde8808585d3589179f0ca6538f2
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_74.tif,tampered,Tampered images,s1_74.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,ef37e95e7acb7fac21fcaf081ec5d7dd
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_78.tif,tampered,Tampered images,s1_78.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,402152edf2979ca51ed67f3508933ac1
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_79.tif,tampered,Tampered images,s1_79.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,9a1fa8b8b5fec018ba4e88a7082c4a23
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_81.tif,tampered,Tampered images,s1_81.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,ba14e712d7b7915ee0cf9793292d5ee9
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_82.tif,tampered,Tampered images,s1_82.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,1004731bf4f8561e3e0e821d03659607
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_83.tif,tampered,Tampered images,s1_83.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,1ac8fe91fb96c3f7f75abef555b29ee4
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_84.tif,tampered,Tampered images,s1_84.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,a4f50557169a7bf7ca6e671efd8088c0
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s1_96.tif,tampered,Tampered images,s1_96.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,4413df59c658a531b6c5dedcfa2fd2d9
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s9_51.tif,tampered,Tampered images,s9_51.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,2fa2877526325979deea5fd5a0f9c406
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s9_52.tif,tampered,Tampered images,s9_52.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,1700be2f2e9176a463b0d5860cfa1f2e
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s9_56.tif,tampered,Tampered images,s9_56.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,66aaf2459e3de7c6b09b5aae83f7b4d0
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s9_58.tif,tampered,Tampered images,s9_58.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,be6d7204dc9c4f0395b798a15ce6027f
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s9_59.tif,tampered,Tampered images,s9_59.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,3762936ca40896485cf93d9ce4a77a26
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s9_60.tif,tampered,Tampered images,s9_60.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,c037abb12bb8d9ccc00031a68f72c7fb
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s9_61.tif,tampered,Tampered images,s9_61.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,bdc5b7f1f48cffbb674de22e9d84be31
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s9_62.tif,tampered,Tampered images,s9_62.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,f83c7388474697b93fccd55f44225f0c
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s9_63.tif,tampered,Tampered images,s9_63.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,f6e7e31186f2a1c904ac43fd74572888
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s9_67.tif,tampered,Tampered images,s9_67.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,cba5df68a8512b69188d6e7c9eb4a418
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Original\s9_68.tif,tampered,Tampered images,s9_68.tif,2480.0,3508.0,RGB,TIFF,301.0,26106955,ea0fcff1725bf06691d8aeab425b33be
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Copy-move\s1_79_b.tif,tampered,Tampered images,s1_79_b.tif,2480.0,3508.0,RGB,TIFF,301.0,26119624,1b9484be552a92232768ec05fa20d290
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s11_34_c.tif,tampered,Tampered images,s11_34_c.tif,2481.0,3471.0,RGB,TIFF,300.0,25854872,8cc40381faab880642c310eec00c1ed7
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s11_35_c.tif,tampered,Tampered images,s11_35_c.tif,2481.0,3487.0,RGB,TIFF,300.0,25974876,962e5ae00299ce781c43341547adf850
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s11_36_c.tif,tampered,Tampered images,s11_36_c.tif,2481.0,3487.0,RGB,TIFF,300.0,25973640,c18f4f0308c19c0008be4fb1a0983844
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s11_41_c.tif,tampered,Tampered images,s11_41_c.tif,2481.0,3487.0,RGB,TIFF,300.0,25974896,13318c25071825ccf8b40dd0060ab04f
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s11_49_c.tif,tampered,Tampered images,s11_49_c.tif,2481.0,3471.0,RGB,TIFF,300.0,25854240,2b7f7e9419a9d4195e72087c1d3748a3
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s1_70_c.tif,tampered,Tampered images,s1_70_c.tif,2480.0,3508.0,RGB,TIFF,301.0,26121268,e89de27d24fd8858a61836cd965bde13
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s1_71_c.tif,tampered,Tampered images,s1_71_c.tif,2480.0,3508.0,RGB,TIFF,301.0,31891796,4e491ae1e99483960f0b4b44470d29e4
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s1_73_c.tif,tampered,Tampered images,s1_73_c.tif,2480.0,3508.0,RGB,TIFF,301.0,35369040,2453a1123f067d9503c473db962a26b0
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s1_74_c.tif,tampered,Tampered images,s1_74_c.tif,2480.0,3508.0,RGB,TIFF,301.0,32736784,d0f1a504a347b8c3de305e4d642870a8
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s1_78_c.tif,tampered,Tampered images,s1_78_c.tif,2480.0,3508.0,RGB,TIFF,301.0,35306252,87d201e28b9aa0ae966e414ae6269412
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s1_79_c.tif,tampered,Tampered images,s1_79_c.tif,2480.0,3508.0,RGB,TIFF,301.0,26119552,454eb8df043c31f08aa4b03e3faffba1
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s1_82_c.tif,tampered,Tampered images,s1_82_c.tif,2480.0,3508.0,RGB,TIFF,301.0,26119776,5e6e7c4f35178c8f552373fef9802247
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s1_84_c.tif,tampered,Tampered images,s1_84_c.tif,2480.0,3508.0,RGB,TIFF,301.0,26119384,154fcb2e45e24491964c51fad1a50d9c
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s9_51_c.tif,tampered,Tampered images,s9_51_c.tif,2480.0,3508.0,RGB,TIFF,301.0,26119312,ced1c21da73e3f1ca3c189f296663785
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s9_52_c.tif,tampered,Tampered images,s9_52_c.tif,2480.0,3508.0,RGB,TIFF,301.0,26121024,1f2159d57514e17218088456969ec1a8
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s9_58_c.tif,tampered,Tampered images,s9_58_c.tif,2480.0,3508.0,RGB,TIFF,301.0,26119272,ecc400841fb6f825312c3bdc5ff2bd29
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s9_59_c.tif,tampered,Tampered images,s9_59_c.tif,2480.0,3508.0,RGB,TIFF,301.0,26120424,260d2d9f02f101c529e1085bd1ef76b7
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s9_61_c.tif,tampered,Tampered images,s9_61_c.tif,2480.0,3508.0,RGB,TIFF,301.0,26119160,b07b576c011e2b41921f13d15b3140d0
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s9_63_c.tif,tampered,Tampered images,s9_63_c.tif,2480.0,3508.0,RGB,TIFF,301.0,26120224,08a62cf45449b5c348609acb28901750
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Retouching\s9_68_c.tif,tampered,Tampered images,s9_68_c.tif,2480.0,3508.0,RGB,TIFF,301.0,26119744,c4585721dea7aeab3a2cdae399e3994b
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\s11_27_a.tif,tampered,Tampered images,s11_27_a.tif,2481.0,3487.0,RGB,TIFF,300.0,25974624,8e0d32bad7299f97c2241a948ec27e3b
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\s11_35_a.tif,tampered,Tampered images,s11_35_a.tif,2481.0,3487.0,RGB,TIFF,300.0,25974884,275c03246eb6d70cdf03fbd038d9377c
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\s11_49_a.tif,tampered,Tampered images,s11_49_a.tif,2481.0,3471.0,RGB,TIFF,300.0,25854284,04273fe80bb934d6337887de9a37adf9
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\s11_4_a.tif,tampered,Tampered images,s11_4_a.tif,2481.0,3487.0,RGB,TIFF,300.0,25975496,fe4d3b2829554db7a8a4c1ec34fc3ace
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\s1_70_a.tif,tampered,Tampered images,s1_70_a.tif,2480.0,3508.0,RGB,TIFF,301.0,26121416,59a5691c6d1a02cf08960fb22577a041
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\s1_71_a.tif,tampered,Tampered images,s1_71_a.tif,2480.0,3508.0,RGB,TIFF,301.0,33004372,47cda42374f1ec9b33a14ff4550c96cb
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\s9_56_a.tif,tampered,Tampered images,s9_56_a.tif,2480.0,3508.0,RGB,TIFF,301.0,26120476,d6b2a6f55a76c0d9e2df4edbe9d47da3
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s11_19_a1.png,tampered,Tampered images,img_s11_19_a1.png,434.0,197.0,RGBA,PNG,,59104,724c7f416e3b8b3396e684ae84532338
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s11_27_a1.png,tampered,Tampered images,img_s11_27_a1.png,860.0,624.0,RGBA,PNG,72.009,60416,554d62028b083a78cb4b6b85a5769f48
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s11_27_a2.png,tampered,Tampered images,img_s11_27_a2.png,512.0,512.0,P,PNG,1275.4356,5324,46476c8b78b5f65423119c1c63a9402d
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s11_29_a1.png,tampered,Tampered images,img_s11_29_a1.png,512.0,512.0,RGBA,PNG,96.012,17895,2ef4f3c5a2b755c4a20d8a8ad5ebc258
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s11_29_a2.png,tampered,Tampered images,img_s11_29_a2.png,512.0,512.0,RGBA,PNG,96.012,29225,788091df7e348c9a6fb0bcb66bded279
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s11_34_a1.png,tampered,Tampered images,img_s11_34_a1.png,512.0,512.0,P,PNG,141.1478,17020,6e2a25fa6c5774c927f0fb67d184378a
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s11_49_a1.png,tampered,Tampered images,img_s11_49_a1.png,512.0,512.0,RGBA,PNG,89.96679999999999,17124,7164dcba57d65e1e36820351fa589672
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_70_a1.png,tampered,Tampered images,img_s1_70_a1.png,1200.0,585.0,RGBA,PNG,72.009,91678,21435032f657ba100154129bfb61c3a1
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_70_a2.png,tampered,Tampered images,img_s1_70_a2.png,665.0,381.0,RGBA,PNG,96.012,92142,c1bc7de44d885f6fe5fb8c4c5ab939a5
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_71_a1.png,tampered,Tampered images,img_s1_71_a1.png,279.0,148.0,RGBA,PNG,,26497,edef6f19a14558eafb3018198122a53f
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_71_a2.png,tampered,Tampered images,img_s1_71_a2.png,317.0,202.0,RGBA,PNG,,14049,32cec4848f196f69aea28fcc5d146e9e
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_72_a1.png,tampered,Tampered images,img_s1_72_a1.png,1296.0,984.0,RGBA,PNG,72.009,536661,a1eebb0be2af52e8f8b74e7c6cac613f
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_72_a2.png,tampered,Tampered images,img_s1_72_a2.png,1434.0,426.0,RGBA,PNG,72.009,26329,601ab4fe45287de50d75340c87204bee
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_74_a1.png,tampered,Tampered images,img_s1_74_a1.png,579.0,528.0,P,PNG,,8281,10972e3d040f289bad46ca945b1e4351
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_74_a2.png,tampered,Tampered images,img_s1_74_a2.png,6108.0,2917.0,RGB,PNG,,237127,f19ed2aece6adb7786dd828e8dd29f93
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_74_a3.jpg,tampered,Tampered images,img_s1_74_a3.jpg,624.0,590.0,RGB,JPEG,72.0,45685,c101b1e75668e203391b478317d04fd0
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_78_a1.jpg,tampered,Tampered images,img_s1_78_a1.jpg,418.0,337.0,RGB,JPEG,72,15163,7c76d88c5a5385217e792ef8a8db67f2
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_79_a1.png,tampered,Tampered images,img_s1_79_a1.png,3032.0,1181.0,RGBA,PNG,299.9994,68688,9d6759274a3b49d543d30e86e59c32b9
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_81_a1.png,tampered,Tampered images,img_s1_81_a1.png,820.0,454.0,RGBA,PNG,96.012,78035,aa2673991e4b974b1725d4977fbff41a
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_82_a1.png,tampered,Tampered images,img_s1_82_a1.png,820.0,423.0,RGBA,PNG,96.012,75105,7b29769ed67dab237b45ade57d442a6a
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_83_a1.png,tampered,Tampered images,img_s1_83_a1.png,820.0,423.0,RGBA,PNG,96.012,75105,7b29769ed67dab237b45ade57d442a6a
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_83_a2.png,tampered,Tampered images,img_s1_83_a2.png,820.0,454.0,RGBA,PNG,96.012,78035,aa2673991e4b974b1725d4977fbff41a
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_84_a1.png,tampered,Tampered images,img_s1_84_a1.png,820.0,454.0,RGBA,PNG,96.012,78035,aa2673991e4b974b1725d4977fbff41a
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s1_96_a1.png,tampered,Tampered images,img_s1_96_a1.png,860.0,624.0,RGBA,PNG,72.009,60575,3614d00b1fa02cc3ded7fccde2f961e0
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s9_51_a1.png,tampered,Tampered images,img_s9_51_a1.png,512.0,512.0,P,PNG,141.1478,17020,6e2a25fa6c5774c927f0fb67d184378a
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s9_52_a1.png,tampered,Tampered images,img_s9_52_a1.png,1125.0,586.0,RGBA,PNG,,40831,d92db006eaaa6072525a299913d19e95
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s9_56_a1.png,tampered,Tampered images,img_s9_56_a1.png,512.0,512.0,RGBA,PNG,97.63759999999999,18563,dccae0ae326b5dba3b6c94893afbd015
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s9_59_a1.png,tampered,Tampered images,img_s9_59_a1.png,512.0,512.0,RGBA,PNG,89.9922,6329,ffe34b7b777e147af2890b7b6ae8637b
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s9_62_a1.png,tampered,Tampered images,img_s9_62_a1.png,512.0,512.0,RGBA,PNG,93.90379999999999,5726,168551160dff2d39675a3c520ad3ee40
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s9_63_a1.png,tampered,Tampered images,img_s9_63_a1.png,506.0,257.0,RGBA,PNG,,150835,ab4099bb5dabc45eb7fffae134789663
+C:\Users\Admin\AI_TraceFinder\data\tampered\Tampered images\Tampered\Splicing\external files\img_s9_67_a1.png,tampered,Tampered images,img_s9_67_a1.png,512.0,512.0,P,PNG,231.92739999999998,5260,72e0605c880fa039abf4f29f3478ffde
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_100.tif,wiki_scans,Wikipedia,s3_100.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,60202140ac6cdc5206e72da1f7cbe44d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_101.tif,wiki_scans,Wikipedia,s3_101.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,92ab6f9770a1ae47bf70b831d45d97af
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_102.tif,wiki_scans,Wikipedia,s3_102.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,bb04c4e8923a7c9102a67d837634182b
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_103.tif,wiki_scans,Wikipedia,s3_103.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,e2f7ae75003a562735d0b9eaa3fee7b5
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_104.tif,wiki_scans,Wikipedia,s3_104.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,d6a91707ee495d6e4579a25e18764534
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_105.tif,wiki_scans,Wikipedia,s3_105.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,47b045c1d5c7cba4237c302f35a3e708
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_106.tif,wiki_scans,Wikipedia,s3_106.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,4440bd393fd969820121ddd447fcaf13
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_107.tif,wiki_scans,Wikipedia,s3_107.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,c4c62fb20f9fabee6e5d2cbec8158a99
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_108.tif,wiki_scans,Wikipedia,s3_108.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,7d169a885dd4aa9e32634961d148bd8f
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_21.tif,wiki_scans,Wikipedia,s3_21.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,8c9a7a2513c426bf1d614c2575e02227
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_28.tif,wiki_scans,Wikipedia,s3_28.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,978e34919045f020fe9ecfd1728f3a1b
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_34.tif,wiki_scans,Wikipedia,s3_34.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,7329d626e65379ef492e9fbedb08b67b
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_39.tif,wiki_scans,Wikipedia,s3_39.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,c515487ed1b09146d8074db644f3d937
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_41.tif,wiki_scans,Wikipedia,s3_41.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,5697302ecd173a5b244a28b5acdc2fac
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_43.tif,wiki_scans,Wikipedia,s3_43.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,1c5c4ab06b4a3c96d91fbfadb0e3ce97
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_45.tif,wiki_scans,Wikipedia,s3_45.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,01be7ac8a41011fc568e423693b132b6
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_47.tif,wiki_scans,Wikipedia,s3_47.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,f4481a64ab793f93ceab0d178f5f350e
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_55.tif,wiki_scans,Wikipedia,s3_55.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,85935cc49d0c6ad87e129f73f27d0a79
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_78.tif,wiki_scans,Wikipedia,s3_78.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,fc7e5b29d0d035c3531c3c45f5bb59ce
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_81.tif,wiki_scans,Wikipedia,s3_81.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,93f76c2bdd054054fb66db25a27c035d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_85.tif,wiki_scans,Wikipedia,s3_85.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,b308337dfe7d985d53e67b8abac38298
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_90.tif,wiki_scans,Wikipedia,s3_90.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,095c9f5ccfb47187c0492df7edf43625
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_93.tif,wiki_scans,Wikipedia,s3_93.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,6b16c45f3a4ce195adebafa00f088439
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_94.tif,wiki_scans,Wikipedia,s3_94.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,2c7c132b89662d029453f33433e5ff66
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_95.tif,wiki_scans,Wikipedia,s3_95.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,fc0986f2409ca264d8875828334401df
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_96.tif,wiki_scans,Wikipedia,s3_96.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,3d2fef3ea14612c0b78baa97b00afbcf
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_97.tif,wiki_scans,Wikipedia,s3_97.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,ccfe77baa6e027c48d72f1b41d95cf86
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_98.tif,wiki_scans,Wikipedia,s3_98.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,cb85ccd4f4dad9620294384b600be0ea
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\150\s3_99.tif,wiki_scans,Wikipedia,s3_99.tif,1240.0,1752.0,RGB,TIFF,150.0,6519605,e883ab468e99f1b999d563ef335519f0
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_100.tif,wiki_scans,Wikipedia,s3_100.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,1f7142696c9443715642dc6976d7e47a
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_101.tif,wiki_scans,Wikipedia,s3_101.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,699b15b57917ec9424e9ea869ae99f2c
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_102.tif,wiki_scans,Wikipedia,s3_102.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,5a29928be8e72b1e368b0738aba9d29a
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_103.tif,wiki_scans,Wikipedia,s3_103.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,e71e05365b2f3b14868da39c7e8d642d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_104.tif,wiki_scans,Wikipedia,s3_104.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,99e4968d60d50970a10c58108eafea21
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_105.tif,wiki_scans,Wikipedia,s3_105.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,091015d2e864747dd1d74bcda22a44ce
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_106.tif,wiki_scans,Wikipedia,s3_106.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,80b67c12779a6c269f1ef8d54de51dee
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_107.tif,wiki_scans,Wikipedia,s3_107.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,774b23c90e4df2b5170d92b60481f3f2
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_108.tif,wiki_scans,Wikipedia,s3_108.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,ba646dc9cc3b473714d9ef44d45826b8
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_21.tif,wiki_scans,Wikipedia,s3_21.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,f1e6b7c1f9d8d217aec9d10a2994ac5e
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_71.tif,wiki_scans,Wikipedia,s3_71.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,fbc1ee281b42c6c212df74f3131a4329
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_72.tif,wiki_scans,Wikipedia,s3_72.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,3a5716a95b6cd22ca96098e0cbd57186
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_74.tif,wiki_scans,Wikipedia,s3_74.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,a0b8de887dab9d5f998292ce7dc7ba7e
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_75.tif,wiki_scans,Wikipedia,s3_75.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,17b4cf68d75f7ea8cec9d8edeed8907e
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_76.tif,wiki_scans,Wikipedia,s3_76.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,fbb0647860fe4d9ad2f967ffce26db5b
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_77.tif,wiki_scans,Wikipedia,s3_77.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,abbbec8db1c545a49f5cd5e8adb0af81
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_78.tif,wiki_scans,Wikipedia,s3_78.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,3e0cc8aae4c0aad5cab8fdc9f41f5591
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_79.tif,wiki_scans,Wikipedia,s3_79.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,9c4f5cb94d6f1bb225238b6f8ed12075
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_80.tif,wiki_scans,Wikipedia,s3_80.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,b7ed002fad3116f906927b3dacb8aa9a
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_81.tif,wiki_scans,Wikipedia,s3_81.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,2024b44a2c7ab88b676cd56c7095983f
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_82.tif,wiki_scans,Wikipedia,s3_82.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,47ee57af5620cabffe64cf0b7c165bf9
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_83.tif,wiki_scans,Wikipedia,s3_83.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,d070c443e6f6d84da1d7cb4d817a54a5
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_84.tif,wiki_scans,Wikipedia,s3_84.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,57ceb329cac0c9e2e40f69867f59eb9b
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_85.tif,wiki_scans,Wikipedia,s3_85.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,33c7357372578a93c4ee2ca9eb1c183c
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_86.tif,wiki_scans,Wikipedia,s3_86.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,b9f93e620f12f4aed675e8fa302cb028
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_87.tif,wiki_scans,Wikipedia,s3_87.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,86272dced5cb331cce4512cfbdb70517
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_88.tif,wiki_scans,Wikipedia,s3_88.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,d59030b5480925746071866b80cdca53
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_89.tif,wiki_scans,Wikipedia,s3_89.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,0763eb5286b70e781d61aa05c41eeb5d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_90.tif,wiki_scans,Wikipedia,s3_90.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,cd6865de437ed05af7122258e434b944
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_91.tif,wiki_scans,Wikipedia,s3_91.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,5fad463cc6fdbd6a4f21abe7cf116a61
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_92.tif,wiki_scans,Wikipedia,s3_92.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,274058e7eaf53c0a60cb73434742ded0
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_93.tif,wiki_scans,Wikipedia,s3_93.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,c66296a8ef2b430fa9886ac2d860b2a5
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_94.tif,wiki_scans,Wikipedia,s3_94.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,3e3af5bdad7ea85f4bb77310406e12da
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_95.tif,wiki_scans,Wikipedia,s3_95.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,8cc9c97cb8a5e94b2cdfb5b21e009376
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_96.tif,wiki_scans,Wikipedia,s3_96.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,bb2132d4cbe91ee4b32700cf13a0de34
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_97.tif,wiki_scans,Wikipedia,s3_97.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,d09c88f388fa55b57ed842fe0ff5c709
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_98.tif,wiki_scans,Wikipedia,s3_98.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,6901051d39e903ad096056401ae43d94
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon220\300\s3_99.tif,wiki_scans,Wikipedia,s3_99.tif,2480.0,3508.0,RGB,TIFF,301.0,26106949,173013ee1e5935c67cf7a2cae86b29bb
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_100.tif,wiki_scans,Wikipedia,s4_100.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,5a8b088426770a3ababf3bbb5c859086
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_101.tif,wiki_scans,Wikipedia,s4_101.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,2e4b296f315eba56dd291f0c866a63a5
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_102.tif,wiki_scans,Wikipedia,s4_102.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,6ae814d8a91009fbd8c78576d07c4cd7
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_103.tif,wiki_scans,Wikipedia,s4_103.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,506071642c270b01635a13904ee9e25b
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_104.tif,wiki_scans,Wikipedia,s4_104.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,68c455f0121dde6eebad318482300da4
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_105.tif,wiki_scans,Wikipedia,s4_105.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,feb7c7613fa252423ecbe412f955dc3c
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_106.tif,wiki_scans,Wikipedia,s4_106.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,affdc66495a7e4426ab5727500422805
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_107.tif,wiki_scans,Wikipedia,s4_107.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,f6eb70389d1c25adb748e5e0ac239d12
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_108.tif,wiki_scans,Wikipedia,s4_108.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,892f6bc37c3163ea91479ff20c82bb3e
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_17.tif,wiki_scans,Wikipedia,s4_17.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,f17184f286e5e45c64fa8aff28a9ce0c
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_20.tif,wiki_scans,Wikipedia,s4_20.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,d86bd62363f1d9d2ab96ca425f91a612
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_27.tif,wiki_scans,Wikipedia,s4_27.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,25dbe929ba600a153dbc781e9d2247bd
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_32.tif,wiki_scans,Wikipedia,s4_32.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,861de8329a4494db4625e7a8742833a5
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_39.tif,wiki_scans,Wikipedia,s4_39.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,cfc71249489a74885c9011e83c4e1cde
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_40.tif,wiki_scans,Wikipedia,s4_40.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,250fd306a0152cc58ffc8aec27fa7ba2
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_41.tif,wiki_scans,Wikipedia,s4_41.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,491cf27742b87b0bf8f86d2d5a6dccf7
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_49.tif,wiki_scans,Wikipedia,s4_49.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,dcdcce167af20007ccb0f7bd5f8cece1
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_55.tif,wiki_scans,Wikipedia,s4_55.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,609e73046d4252cc5b3607945787cbaa
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_59.tif,wiki_scans,Wikipedia,s4_59.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,a26fe7f1d28f63b729fe69bfb33e8da9
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_62.tif,wiki_scans,Wikipedia,s4_62.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,24bf68054bbd82592192f3be56d19394
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_65.tif,wiki_scans,Wikipedia,s4_65.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,724bda6f7914da9721f795ad49cb8bb7
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_69.tif,wiki_scans,Wikipedia,s4_69.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,8f3dc820cc62656c039f87572655fda4
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_70.tif,wiki_scans,Wikipedia,s4_70.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,1baed406f00f475b9258fa0b363f2704
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_80.tif,wiki_scans,Wikipedia,s4_80.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,ddaf7428bd09ee5142834e1ab06e98fa
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_81.tif,wiki_scans,Wikipedia,s4_81.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,ffc0ec1e21edfa1ec6c8ea2e22500903
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_82.tif,wiki_scans,Wikipedia,s4_82.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,7e66c6d46819764b85ffbd16215f6c65
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_83.tif,wiki_scans,Wikipedia,s4_83.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,17c573eb424ef0caf52275ae393b7013
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_84.tif,wiki_scans,Wikipedia,s4_84.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,769596b3df47baac5a1936b3844ccd19
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_85.tif,wiki_scans,Wikipedia,s4_85.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,5da744ed1c6fe2afe0983e38c3fd854c
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_86.tif,wiki_scans,Wikipedia,s4_86.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,334d1c528927573013c36e8aecce9b02
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_87.tif,wiki_scans,Wikipedia,s4_87.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,84af6ca295cc45173aeb3c47a1dc2be1
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_88.tif,wiki_scans,Wikipedia,s4_88.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,68173a6273c217e6f0226d7f80e31d29
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_89.tif,wiki_scans,Wikipedia,s4_89.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,9818b404521d2ede7fb0a93f459907aa
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_90.tif,wiki_scans,Wikipedia,s4_90.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,ceb8efa8ba24e03ab35ec749bc48b39b
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_91.tif,wiki_scans,Wikipedia,s4_91.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,5e47e2639134e931a4e78c3ef451559d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_92.tif,wiki_scans,Wikipedia,s4_92.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,3af0f91ff89abe234804576f7b7b4105
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_93.tif,wiki_scans,Wikipedia,s4_93.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,614b5f2bd9288a8117f8a220e90a342b
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_94.tif,wiki_scans,Wikipedia,s4_94.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,ff16acd54cd526017966d0ae9c5bd753
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_95.tif,wiki_scans,Wikipedia,s4_95.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,cee48a39fd274873c7336f763977d5ab
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_96.tif,wiki_scans,Wikipedia,s4_96.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,1c75af7830246e2831ad3b1000306480
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_97.tif,wiki_scans,Wikipedia,s4_97.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,a6472989da34669bdcff1cdfd2ec8569
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_98.tif,wiki_scans,Wikipedia,s4_98.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,11a8392d67e7d8625b9dce551ccaa645
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-1\150\s4_99.tif,wiki_scans,Wikipedia,s4_99.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,7f1b65e14ebaa88dc63ba43310a7d129
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_100.tif,wiki_scans,Wikipedia,s5_100.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,9fc68776bbaa3607c6eb04a4ff55933f
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_101.tif,wiki_scans,Wikipedia,s5_101.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,d8a84fabd9971ecbbd2efa3c5c938db6
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_102.tif,wiki_scans,Wikipedia,s5_102.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,dbecfbf19d84d0246ab0ba57f349351b
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_103.tif,wiki_scans,Wikipedia,s5_103.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,051bc9006f95706649fc5152cb76f20c
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_104.tif,wiki_scans,Wikipedia,s5_104.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,12f00f872ef543a258598a506fb6292e
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_105.tif,wiki_scans,Wikipedia,s5_105.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,1a04c03fa89765b8b559aa9ddebc6d6f
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_106.tif,wiki_scans,Wikipedia,s5_106.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,4352e51f8be197bc74d91b89020f9146
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_107.tif,wiki_scans,Wikipedia,s5_107.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,22319f245a8e38784e28bf268e129522
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_108.tif,wiki_scans,Wikipedia,s5_108.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,407d0a8afbc0866ecfecd4af4744815d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_50.tif,wiki_scans,Wikipedia,s5_50.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,55831da3d4fc999f43324d6f4d177793
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_53.tif,wiki_scans,Wikipedia,s5_53.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,048728652a40e5d5a3e1a01d62848845
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_54.tif,wiki_scans,Wikipedia,s5_54.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,78b16110b8bee4dafd00d14f6d2d1673
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_58.tif,wiki_scans,Wikipedia,s5_58.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,f7398323463fd449ba0044389ffab88d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_62.tif,wiki_scans,Wikipedia,s5_62.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,6ffa1c3d687fd2c1a4845ed769099ba4
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_65.tif,wiki_scans,Wikipedia,s5_65.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,caa1285035a1057227a918a48183b393
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_72.tif,wiki_scans,Wikipedia,s5_72.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,fd9a2cd2b1b414c96db30a87657f1784
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_83.tif,wiki_scans,Wikipedia,s5_83.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,489addf905f35f1bec4e6bcd815cc44e
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_91.tif,wiki_scans,Wikipedia,s5_91.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,a239920e780961403f089c1ea3d48ad4
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_95.tif,wiki_scans,Wikipedia,s5_95.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,7d18c993d4a41189572e8e3b30c33641
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_97.tif,wiki_scans,Wikipedia,s5_97.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,038f31dd84be4456d388c95d67ef6427
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_98.tif,wiki_scans,Wikipedia,s5_98.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,a2e24fbf3c0464b34c0b9d28e041edbd
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\Canon9000-2\150\s5_99.tif,wiki_scans,Wikipedia,s5_99.tif,1240.0,1754.0,RGB,TIFF,151.0,6527057,958d0e7f25adc0c6f1760150db06049e
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_100.tif,wiki_scans,Wikipedia,s6_100.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,7e34eefba25d16d53597b330f5f3ea68
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_101.tif,wiki_scans,Wikipedia,s6_101.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,404b3cc29a0729cbd0151038a69b1977
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_102.tif,wiki_scans,Wikipedia,s6_102.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,db8623201bb69dc55a876468008f7d62
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_103.tif,wiki_scans,Wikipedia,s6_103.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,b5ae45e1330dd29fa44e26203ea5c915
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_104.tif,wiki_scans,Wikipedia,s6_104.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,68c30bc76e333c5f0960ce5816ad7fc3
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_105.tif,wiki_scans,Wikipedia,s6_105.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,37d64af4782be9a436a0491ab8b41fe6
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_106.tif,wiki_scans,Wikipedia,s6_106.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,de6876e20aa0f168c5058e112f03cbff
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_107.tif,wiki_scans,Wikipedia,s6_107.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,529a370239b23fdb74963211643272da
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_108.tif,wiki_scans,Wikipedia,s6_108.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,b0b49035bff476e9f5afa5abae1d82fb
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_37.tif,wiki_scans,Wikipedia,s6_37.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,62c16025f60282f3b5a443aaace5e1f2
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_40.tif,wiki_scans,Wikipedia,s6_40.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,23216f71dbb505a8e561d0e845536ac9
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_41.tif,wiki_scans,Wikipedia,s6_41.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,b66cd21a38064ae52f596dd8f1f6119b
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_65.tif,wiki_scans,Wikipedia,s6_65.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,8a53afbf7a9d49f00e461307269480fc
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_66.tif,wiki_scans,Wikipedia,s6_66.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,2d18ba527581d020496796564e932d8d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_69.tif,wiki_scans,Wikipedia,s6_69.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,7c5463ac5f05a4ecdb9651a9ac722349
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_76.tif,wiki_scans,Wikipedia,s6_76.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,ff3e31a5c39a26d94e41847ff8b854f6
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_86.tif,wiki_scans,Wikipedia,s6_86.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,ce4d6de2e9c0d9002063d32c5aafd1cb
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_87.tif,wiki_scans,Wikipedia,s6_87.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,5a6ab05a0124b976495a10844ab2b693
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_88.tif,wiki_scans,Wikipedia,s6_88.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,743d9648553b37c6a031b501e8e13a40
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_90.tif,wiki_scans,Wikipedia,s6_90.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,75eeb08571fb084b9a09f4add8c7382a
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_91.tif,wiki_scans,Wikipedia,s6_91.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,7f4f0b38d472ddb482ebf2e08a74498c
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_92.tif,wiki_scans,Wikipedia,s6_92.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,7efd131a97929ab6f6c13cbf1e6c1c12
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_93.tif,wiki_scans,Wikipedia,s6_93.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,a3e5867170bd775b1823d51261c08aa8
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_94.tif,wiki_scans,Wikipedia,s6_94.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,000f0ec7e11352ed5b9b070d05480198
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_95.tif,wiki_scans,Wikipedia,s6_95.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,a34ac7f6fb4ddd5914ed0ed6066b32c5
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_96.tif,wiki_scans,Wikipedia,s6_96.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,027dce75e31d5a98a2678e511fe45f69
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_97.tif,wiki_scans,Wikipedia,s6_97.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,f25d674b9af4d12d03d577e1e55e4fb9
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_98.tif,wiki_scans,Wikipedia,s6_98.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,7ed32c86e9f6e8690e6f97eff53ff1b1
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV370-1\150\s6_99.tif,wiki_scans,Wikipedia,s6_99.tif,1236.0,1754.0,RGB,TIFF,151.0,6506011,f75ebb2e7495918c38a8d9ed35d1b5d8
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_108.tif,wiki_scans,Wikipedia,s8_108.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,79d2f128507d9d33324e57efc05943eb
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_48.tif,wiki_scans,Wikipedia,s8_48.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,baa408eeccada0c8e6f6954c17eccbb8
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_49.tif,wiki_scans,Wikipedia,s8_49.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,61478ededa3ee3fcb00a8c0273272f1d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_59.tif,wiki_scans,Wikipedia,s8_59.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,62db99d3d789e9eded3c38086ad3ed59
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_62.tif,wiki_scans,Wikipedia,s8_62.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,b17336a5526c206fde5be8ed4f8fa416
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_69.tif,wiki_scans,Wikipedia,s8_69.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,b63cd2ce654536cfb89afc4d678ece50
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_73.tif,wiki_scans,Wikipedia,s8_73.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,25bcbbcb8921c8345aab3d1b417acb33
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_74.tif,wiki_scans,Wikipedia,s8_74.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,9acec732cef35ff3821c8bd2b13e0147
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_76.tif,wiki_scans,Wikipedia,s8_76.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,653a875f93bd204bc6dffa209647bf99
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_81.tif,wiki_scans,Wikipedia,s8_81.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,d9a8794938497834de893a049e5948b3
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_84.tif,wiki_scans,Wikipedia,s8_84.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,d65206cde572e93594f91faee23f26ca
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_90.tif,wiki_scans,Wikipedia,s8_90.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,932364798c764d9a8b64ff47a2493259
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-1\150\s8_91.tif,wiki_scans,Wikipedia,s8_91.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,95907eaf848fdf305e6fd537983014cf
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-2\150\s9_108.tif,wiki_scans,Wikipedia,s9_108.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,500b90828075326d9287392d8529163f
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-2\150\s9_48.tif,wiki_scans,Wikipedia,s9_48.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,61d0595d1f19c9fbcddf3a6493c5186c
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-2\150\s9_50.tif,wiki_scans,Wikipedia,s9_50.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,dff8461da85c4fc83b32c9621a8b647d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-2\150\s9_58.tif,wiki_scans,Wikipedia,s9_58.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,557c7e29bb76a815562af0c6ea91a799
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-2\150\s9_75.tif,wiki_scans,Wikipedia,s9_75.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,d8c4970b4d115ef653fe3f6e1b3949fd
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-2\150\s9_81.tif,wiki_scans,Wikipedia,s9_81.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,911ef6ef514edc52340ff3d8f72aff50
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-2\150\s9_84.tif,wiki_scans,Wikipedia,s9_84.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,7090d5bb321cfe7c62de9413b7e8d647
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV39-2\150\s9_86.tif,wiki_scans,Wikipedia,s9_86.tif,1240.0,1754.0,RGB,TIFF,151.0,6527059,27d2b209456e786d51364432751e5405
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\150\s10_101.tif,wiki_scans,Wikipedia,s10_101.tif,1239.0,1754.0,RGB,TIFF,151.0,6521797,127709bebe822e5dca5816e5f405e042
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\150\s10_103.tif,wiki_scans,Wikipedia,s10_103.tif,1239.0,1754.0,RGB,TIFF,151.0,6521797,b56f6ff7acc4ee24aa8d87d34b67ac7c
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\150\s10_104.tif,wiki_scans,Wikipedia,s10_104.tif,1239.0,1754.0,RGB,TIFF,151.0,6521797,48b5cea407bd5dd95b8b80e6905f91c5
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\150\s10_105.tif,wiki_scans,Wikipedia,s10_105.tif,1239.0,1754.0,RGB,TIFF,151.0,6521797,424987cfc7f99b130ad17aafaf513fa1
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\150\s10_106.tif,wiki_scans,Wikipedia,s10_106.tif,1239.0,1754.0,RGB,TIFF,151.0,6521797,cceafbcbaf666d03efdb81359bc72ffb
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\150\s10_89.tif,wiki_scans,Wikipedia,s10_89.tif,1239.0,1754.0,RGB,TIFF,151.0,6521797,9c88a558375c7f35d08bc880fd8726a6
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_10.tif,wiki_scans,Wikipedia,s10_10.tif,2478.0,3508.0,RGB,TIFF,301.0,12333832,7908ef4b537205fef1ed037a8064b34a
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_100.tif,wiki_scans,Wikipedia,s10_100.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,33a9725426e7defe6657c9b0e0f434c3
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_101.tif,wiki_scans,Wikipedia,s10_101.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,01d6105210842d4f889951b695292e98
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_102.tif,wiki_scans,Wikipedia,s10_102.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,f8cdec9ef98c251b4ff08bd5956b2020
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_103.tif,wiki_scans,Wikipedia,s10_103.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,bd26b202f86dc8a911627965bf11993e
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_104.tif,wiki_scans,Wikipedia,s10_104.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,89d63c3734caf00634e5461ee7ac6fe8
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_105.tif,wiki_scans,Wikipedia,s10_105.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,837c80c8e21bc3b5edc0dd84931e9f52
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_106.tif,wiki_scans,Wikipedia,s10_106.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,b076bc57157fabc7168cb50672f26944
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_107.tif,wiki_scans,Wikipedia,s10_107.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,42a752076460417a776b0bfddc10e313
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_108.tif,wiki_scans,Wikipedia,s10_108.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,aebe23fb9f4d5ae5f2ff475fea6d4d48
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_29.tif,wiki_scans,Wikipedia,s10_29.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,b52c0a5b45e4dbaf09248674967a916f
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_83.tif,wiki_scans,Wikipedia,s10_83.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,3c2dd4d7454e7f750c01c3a09e625026
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_84.tif,wiki_scans,Wikipedia,s10_84.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,4ddc26606d8b09520537fcea2887aab7
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_85.tif,wiki_scans,Wikipedia,s10_85.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,cc4ae33231c6da11cc78308d436ae299
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_86.tif,wiki_scans,Wikipedia,s10_86.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,62d5631c5cf9e2df27fbdf98488a2358
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_87.tif,wiki_scans,Wikipedia,s10_87.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,593d6e4f3e052d312169229680a837f0
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_89.tif,wiki_scans,Wikipedia,s10_89.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,60b1ebfe43c7d1f1558fdf565abfaeac
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_90.tif,wiki_scans,Wikipedia,s10_90.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,f9344e9928e0d205592e56ec6cb18ca1
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_91.tif,wiki_scans,Wikipedia,s10_91.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,472e11c31fb75f247a494306bc31562f
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_92.tif,wiki_scans,Wikipedia,s10_92.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,e9028e7c7c54ee51a56866264498f396
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_93.tif,wiki_scans,Wikipedia,s10_93.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,b8353402bca24175fb7dfe1538d0ba1d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_94.tif,wiki_scans,Wikipedia,s10_94.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,1297229d749deeebef20ff04b08bfeb1
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_95.tif,wiki_scans,Wikipedia,s10_95.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,5adaaefe9c4d97a296ba550a23eed2d4
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_96.tif,wiki_scans,Wikipedia,s10_96.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,a6b81edbc083757d54657186eeeb214d
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_97.tif,wiki_scans,Wikipedia,s10_97.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,39f2ac5b0035e7dffb1a9febcae36130
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_98.tif,wiki_scans,Wikipedia,s10_98.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,176ecfba9727d44603d49833d18f271a
+C:\Users\Admin\AI_TraceFinder\data\wiki_scans\Wikipedia\EpsonV550\300\s10_99.tif,wiki_scans,Wikipedia,s10_99.tif,2478.0,3508.0,RGB,TIFF,301.0,26085907,b3184d2d343f2cf50f614eb8e02da30b

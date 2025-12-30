@@ -8,14 +8,10 @@ import cv2
 import os
 import random
 
-# ----------------- Device -----------------
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-# ----------------- Parameters -----------------
 INPUT_SIZE = 128
 DATASET_PATH = "/Users/mithra/Jeya_Mithra_Tracefinder-1/dataset_scanners_copy"
-
-# ----------------- Load model -----------------
 class ScannerCNN(nn.Module):
     def __init__(self, num_classes):
         super(ScannerCNN, self).__init__()
@@ -50,15 +46,11 @@ class ScannerCNN(nn.Module):
         x = x.view(x.size(0), -1)
         x = self.classifier(x)
         return x
-
-# ----------------- Load trained model -----------------
 NUM_CLASSES = 4
 class_names = ['Canon120', 'EpsonV39', 'EpsonV550', 'HP']
 model = ScannerCNN(NUM_CLASSES).to(device)
 model.load_state_dict(torch.load('scanner_cnn_auto.pth', map_location=device))
 model.eval()
-
-# ----------------- Preprocess image -----------------
 def preprocess_image(image_path):
     transform = transforms.Compose([
         transforms.Resize((INPUT_SIZE, INPUT_SIZE)),
@@ -68,8 +60,6 @@ def preprocess_image(image_path):
     image = Image.open(image_path).convert('RGB')
     tensor = transform(image).unsqueeze(0)  # add batch dimension
     return tensor.to(device), np.array(image)
-
-# ----------------- Grad-CAM -----------------
 def grad_cam(model, image_tensor, target_class=None):
     image_tensor.requires_grad = True
     outputs = model(image_tensor)
@@ -92,8 +82,6 @@ def grad_cam(model, image_tensor, target_class=None):
     heatmap /= torch.max(heatmap)
     heatmap = heatmap.numpy()
     return heatmap, target_class
-
-# ----------------- Overlay heatmap -----------------
 def show_gradcam(image_path):
     image_tensor, orig_image = preprocess_image(image_path)
     heatmap, pred_class = grad_cam(model, image_tensor)
@@ -114,10 +102,7 @@ def show_gradcam(image_path):
     plt.imshow(overlay)
     plt.axis('off')
     plt.show()
-
-# ----------------- Pick a random image automatically (recursive) -----------------
 def get_random_image(dataset_path):
-    # Only include directories (scanner classes)
     classes = [d for d in os.listdir(dataset_path)
                if os.path.isdir(os.path.join(dataset_path, d))]
     
@@ -126,8 +111,6 @@ def get_random_image(dataset_path):
     
     chosen_class = random.choice(classes)
     class_folder = os.path.join(dataset_path, chosen_class)
-    
-    # Recursively get all image files inside subfolders
     images = []
     for root, _, files in os.walk(class_folder):
         for f in files:
@@ -139,8 +122,6 @@ def get_random_image(dataset_path):
     
     chosen_image = random.choice(images)
     return chosen_image
-
-# ----------------- Run Grad-CAM -----------------
 image_path = get_random_image(DATASET_PATH)
 print(f"Selected image: {image_path}")
 show_gradcam(image_path)

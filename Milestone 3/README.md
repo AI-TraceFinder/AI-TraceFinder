@@ -81,7 +81,7 @@ python training\train_cnn.py
 
 ✔ Output:
 
-Training accuracy > 85% (typically reaches 100%)
+Training accuracy 
 
 Model saved to:
 
@@ -105,11 +105,12 @@ results/gradcam_output.png
 
 📈 Results Summary
 Metric	Result
-Training Accuracy	>85% (100% achieved)
+Training Accuracy 
 Model Type	CNN
 Explainability	Grad-CAM
 Classes	Multiple scanner sources
 🧠 Explainability (Grad-CAM)
 
 Grad-CAM highlights the scanner-specific artifact regions that influence the CNN’s predictions.
+
 This confirms that the model focuses on intrinsic scanner noise and texture patterns, not document content.

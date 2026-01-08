@@ -1,0 +1,45 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Tool/IDE metadata
+.vscode/
+.idea/
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+.dmypy.json
+.cache/
+
+# Build / packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Coverage / logs
+.coverage
+.coverage.*
+htmlcov/
+*.log
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Project-specific large assets
+dataset/
+dataset_all/
+gradcam_results/
+models/

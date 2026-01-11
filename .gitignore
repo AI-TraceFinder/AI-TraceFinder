@@ -1,19 +1,23 @@
-# Ignore dataset directories
-Flatfield/
-Official/
-Wikipedia/
-
-
-# Ignore CSV outputs if you don’t want them in repo
-milestone1/processed_images/
-milestone1/*.csv
-milestone2/features.csv
-
-
-# Ignore Python cache
+# Python cache
 __pycache__/
 *.pyc
 
-# Ignore virtual environment
+# Virtual environment
 venv/
-.env/
+.env
+
+# Datasets
+Flatfield/
+Official/
+Wikipedia/
+data/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# Logs / outputs
+logs/
+results/

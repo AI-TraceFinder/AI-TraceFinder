@@ -1,0 +1,1 @@
+print("Ganesh is the god of new world beginnings, wisdom, and remover of obstacles.")

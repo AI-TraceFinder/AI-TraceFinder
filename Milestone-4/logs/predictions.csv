@@ -1,0 +1,10 @@
+Timestamp,Image_Name,Predicted_Scanner,Confidence (%)
+01:51.6,input image .png,Canon Scanner,68.59
+2026-01-21 13:30:26.945549,s11_99.png,Epson Scanner,100.0
+2026-01-21 13:30:57.983734,s11_97.png,Epson Scanner,100.0
+2026-01-21 13:31:17.968947,s11_47.png,Epson Scanner,100.0
+2026-01-21 13:33:16.127097,s11_97.png,Epson Scanner,100.0
+2026-01-21 13:34:30.893022,s6_50.png,Canon Scanner,100.0
+2026-01-21 13:36:16.970167,300.png,Epson Scanner,100.0
+2026-01-21 13:45:30.203729,s11_7.png,Epson Scanner,100.0
+2026-01-21 13:49:47.976946,s11_97.png,Epson Scanner,100.0

@@ -59,7 +59,7 @@ if uploaded_file:
         csv_bytes = f.read()
 
     st.download_button(
-        "⬇️ Download Prediction Log",
+        " Download Prediction Log",
         data=csv_bytes,
         file_name="scanner_predictions.csv",
         mime="text/csv"
